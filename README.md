@@ -1,4 +1,4 @@
-![Submarine Icon](assets/icon/icon.png =100x)
+![Submarine Icon](assets/icon/icon.png)
 # Submarine
 #### Sonarr Companion App
 
@@ -21,6 +21,14 @@ Version 1.0 supports the current functionalities:
  - Use SSL even with self-signed certificates
  - Others
 
+## Screenshots
+
+Here are some screenshots:
+
+![Details screen](assets/screenshots/details1.png)
+![Series list](assets/screenshots/list.png)
+![History](assets/screenshots/history.png)
+![Calendar](assets/screenshots/calendar.png)
 
 ## Video
 
@@ -28,14 +36,6 @@ Here's a video of version 1.0:
 
 ![Sample Video](assets/videos/v1.0.webm)
 
-## Screenshots
-
-And here are some screenshots:
-
-![Details screen](assets/screenshots/details1.png)
-![Series list](assets/screenshots/list.png)
-![History](assets/screenshots/history.png)
-![Calendar](assets/screenshots/calendar.png)
 
 ## Contact
 Feel free to create issues for feature requests/bugs. If you want to reach me please email <submarine@starcarr.co>.
