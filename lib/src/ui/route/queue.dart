@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../model/model.dart';
 import '../../network/network.dart';
 import '../../utils/utils.dart';
+import '../widget/submarine_message.dart';
 
 class Queue extends StatefulWidget {
   @override
@@ -95,27 +96,8 @@ class _QueueState extends State<Queue> implements SonarrNotificationListener {
     }
 
     if (!_loading && _items.isEmpty) {
-      body.add(
-        new Container(
-            margin: const EdgeInsets.only(top: 80.0),
-            alignment: FractionalOffset.center,
-            child: new Column(
-              children: <Widget>[
-                new Icon(
-                  Icons.warning,
-                  size: 40.0,
-                ),
-                new Padding(
-                  padding: const EdgeInsets.only(top: 16.0),
-                  child: new Text(
-                    "No items in queue",
-                    textAlign: TextAlign.center,
-                    style: new TextStyle(fontSize: 16.0),
-                  ),
-                )
-              ],
-            )),
-      );
+      body.add(new SubmarineMessage("No items in queue", Icons.warning,
+          margin: const EdgeInsets.only(top: 80.0)));
     }
 
     var loadingOrBody = (_loading)

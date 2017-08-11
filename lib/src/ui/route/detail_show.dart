@@ -4,7 +4,8 @@ import '../../model/model.dart';
 import '../../network/network.dart';
 import '../widget/episode_search.dart';
 import '../widget/delete_show.dart';
-import '../../ui/widget/add_edit_show.dart' as AddEditShow;
+import '../widget/rename_files.dart';
+import '../widget/add_edit_show.dart' as AddEditShow;
 import '../../utils/utils.dart';
 
 class ShowDetail extends StatefulWidget {
@@ -151,6 +152,7 @@ class _ShowDetailState extends State<ShowDetail> {
         _editShow();
         break;
       case Action.RENAME_EPISODES:
+        _previewRenaming();
         break;
       case Action.SEARCH_MONITORED:
         _searchAllMonitored();
@@ -191,6 +193,19 @@ class _ShowDetailState extends State<ShowDetail> {
     if (response != null && response is bool && response) {
       _refreshShow();
       _showSnackBar("Updated sucessfully");
+    }
+  }
+
+  _previewRenaming() async {
+    var response = await showModalBottomSheet(
+        context: context,
+        builder: (BuildContext context) {
+          return new RenameFiles(_showId);
+        });
+
+    if (response != null && response is bool && response) {
+      _reloadSeasons();
+      _showSnackBar("Request for renaming sent succesfully");
     }
   }
 
@@ -486,9 +501,9 @@ class _ShowDetailState extends State<ShowDetail> {
                               const PopupMenuItem<Action>(
                                   value: Action.SEARCH_MONITORED,
                                   child: const Text('Search monitored')),
-                              /*const PopupMenuItem<Action>(
+                              const PopupMenuItem<Action>(
                                   value: Action.RENAME_EPISODES,
-                                  child: const Text('Rename files')),*/
+                                  child: const Text('Rename files')),
                             ],
                       ),
                     ]),
