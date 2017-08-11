@@ -174,6 +174,13 @@ class QueueItem {
   String status;
 }
 
+class Rename {
+  int fileId;
+  int seasonNumber;
+  String currentPath;
+  String newPath;
+}
+
 class EventType {
   static final values = <EventType>[GRABBED, IMPORTED, FAILED, DELETED];
   static final GRABBED =

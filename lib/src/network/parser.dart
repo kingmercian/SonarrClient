@@ -296,3 +296,17 @@ QueueItem parseQueueItem(Map map) {
     ..quality = map["quality"]["quality"]["name"]
     ..timeLeft = map["timeleft"];
 }
+
+List<Rename> parseRenamingPreviews(String json) {
+  List<Rename> result = new List();
+  JSON.decode(json).forEach((it) => result.add(parseRenamingPreview(it)));
+  return result;
+}
+
+Rename parseRenamingPreview(Map map) {
+  return new Rename()
+      ..fileId = map["episodeFileId"]
+      ..seasonNumber = map["seasonNumber"]
+      ..currentPath = map["existingPath"]
+      ..newPath = map["newPath"];
+}

@@ -201,6 +201,24 @@ class Client {
     return await _sonarr.get("health", parseHealthMessages);
   }
 
+  Future<List<Rename>> previewRename(int showId, {int seasonNumber}) async {
+    String path = "rename?seriesId=$showId";
+
+    path = seasonNumber != null ? "$path&seasonNumber=$seasonNumber" : path;
+
+    return await _sonarr.get(path, parseRenamingPreviews);
+  }
+
+  Future rename(List<int> files, int showId) async {
+    Map<String, dynamic> bodyMap = new Map();
+    bodyMap["name"] = "renameFiles";
+    bodyMap["seriesId"] = showId;
+    bodyMap["seasonNumber"] = -1;
+    bodyMap["files"] = files;
+
+    _executeCommand(JSON.encode(bodyMap));
+  }
+
   Future<Page<MissingRecord>> getMissing(int page, int pageSize) async {
     return await _sonarr.get(
         "wanted/missing?page=$page&pageSize=$pageSize"
