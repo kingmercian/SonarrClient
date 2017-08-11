@@ -1,3 +1,4 @@
+/* Copyright (c) 2017 Miguel Castiblanco */
 import 'package:flutter/material.dart';
 import '../../model/model.dart';
 import '../../network/network.dart';
