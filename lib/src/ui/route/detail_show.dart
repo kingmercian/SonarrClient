@@ -168,11 +168,9 @@ class _ShowDetailState extends State<ShowDetail> {
   _executeSeasonAction(SeasonAction action, Season season) {
     switch (action) {
       case SeasonAction.RENAME_EPISODES:
-        print("Renaming eps for the season ${season.number}");
         _previewRenaming(seasonNumber: season.number);
         break;
       case SeasonAction.DELETE_EPISODES:
-        print("Deleting eps for the season ${season.number}}");
         _deleteSeasonFiles(season);
         break;
     }
@@ -228,7 +226,7 @@ class _ShowDetailState extends State<ShowDetail> {
     var alert = new AlertDialog(
         title: new Text("Deleting files of ${getSeasonLabel(season.number)}"),
         content: new Text(
-            "Are you sure you want to delete all the files for the season?"),
+            "Are you sure you want to delete all the downloaded files for the season?"),
         actions: <Widget>[
           new SimpleDialogOption(
             child: new Text("CANCEL"),
@@ -239,8 +237,6 @@ class _ShowDetailState extends State<ShowDetail> {
           new SimpleDialogOption(
             child: new Text("DELETE"),
             onPressed: () async {
-              //setState(() => _episodesBeingDeleted.add(ep.id));
-
               Navigator.pop(context);
 
               await showModalBottomSheet(
@@ -478,36 +474,46 @@ class _ShowDetailState extends State<ShowDetail> {
                   season.monitored ? Icons.bookmark : Icons.bookmark_border;
 
               monitorEpOrLoading = new IconButton(
+                padding: const EdgeInsets.all(0.0),
                   icon: new Icon(monitoredSeason),
                   tooltip: tooltip,
                   onPressed: () => _monitorSeason(season));
             }
 
-            //bool hasEpsToDelete = false;
+            bool epsToDelete = false;
+
+            for (Episode ep in season.episodes) {
+              if (ep.hasFile) {
+                epsToDelete = true;
+                break;
+              }
+            }
 
             PopupMenuButton<SeasonAction> seasonMenu = new PopupMenuButton(
+                padding: const EdgeInsets.all(0.0),
                 onSelected: (seasonAction) =>
                     _executeSeasonAction(seasonAction, season),
                 itemBuilder: (BuildContext context) =>
                     <PopupMenuItem<SeasonAction>>[
                       const PopupMenuItem<SeasonAction>(
                           value: SeasonAction.RENAME_EPISODES,
-                          child: const Text('Rename Episodes')),
-                      const PopupMenuItem<SeasonAction>(
+                          child: const Text('Rename files')),
+                      new PopupMenuItem<SeasonAction>(
                           value: SeasonAction.DELETE_EPISODES,
-                          //enabled: hasEpsToDelete,
-                          child: const Text('Delete Episodes')),
+                          enabled: epsToDelete,
+                          child: const Text('Delete files')),
                     ]);
 
             Row title = new Row(
+              mainAxisAlignment: MainAxisAlignment.start,
               children: <Widget>[
-                seasonMenu,
                 monitorEpOrLoading,
                 new Text(seasonLabel),
               ],
             );
 
             return new ExpansionTile(
+                leading: seasonMenu,
                 title: title,
                 backgroundColor: Colors.black12,
                 children: episodesOrLoading);

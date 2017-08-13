@@ -52,7 +52,7 @@ class _SeasonFileDeletionState extends State<SeasonFileDeletion> {
           "Deleting ${sxxepxx(widget._season.number, ep.episodeNumber)} - ${ep.title}";
 
       body = new Container(
-        margin: const EdgeInsets.only(top: 30.0),
+        margin: const EdgeInsets.only(top: 40.0),
         child: new Text(
           message,
           textAlign: TextAlign.center,
@@ -61,9 +61,9 @@ class _SeasonFileDeletionState extends State<SeasonFileDeletion> {
       );
     } else {
       body = new SubmarineMessage(
-        "File deletion completed",
+        "All files were deleted",
         Icons.done,
-        margin: const EdgeInsets.only(top: 30.0),
+        margin: const EdgeInsets.only(top: 40.0),
       );
     }
 
