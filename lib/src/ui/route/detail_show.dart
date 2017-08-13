@@ -5,6 +5,7 @@ import '../../network/network.dart';
 import '../widget/episode_search.dart';
 import '../widget/delete_show.dart';
 import '../widget/rename_files.dart';
+import '../widget/season_file_deletion.dart';
 import '../widget/add_edit_show.dart' as AddEditShow;
 import '../../utils/utils.dart';
 
@@ -19,6 +20,7 @@ class ShowDetail extends StatefulWidget {
 }
 
 enum Action { EDIT, DELETE, RENAME_EPISODES, SEARCH_MONITORED }
+enum SeasonAction { DELETE_EPISODES, RENAME_EPISODES }
 
 class _ShowDetailState extends State<ShowDetail> {
   Show _show;
@@ -163,6 +165,17 @@ class _ShowDetailState extends State<ShowDetail> {
     }
   }
 
+  _executeSeasonAction(SeasonAction action, Season season) {
+    switch (action) {
+      case SeasonAction.RENAME_EPISODES:
+        _previewRenaming(seasonNumber: season.number);
+        break;
+      case SeasonAction.DELETE_EPISODES:
+        _deleteSeasonFiles(season);
+        break;
+    }
+  }
+
   _searchAllMonitored() async {
     await Client.getInstance().searchAllMonitored(_show.id);
 
@@ -196,11 +209,11 @@ class _ShowDetailState extends State<ShowDetail> {
     }
   }
 
-  _previewRenaming() async {
+  _previewRenaming({int seasonNumber}) async {
     var response = await showModalBottomSheet(
         context: context,
         builder: (BuildContext context) {
-          return new RenameFiles(_showId);
+          return new RenameFiles(_showId, seasonNumber: seasonNumber);
         });
 
     if (response != null && response is bool && response) {
@@ -209,11 +222,42 @@ class _ShowDetailState extends State<ShowDetail> {
     }
   }
 
+  _deleteSeasonFiles(Season season) async {
+    var alert = new AlertDialog(
+        title: new Text("Deleting files of ${getSeasonLabel(season.number)}"),
+        content: new Text(
+            "Are you sure you want to delete all the downloaded files for the season?"),
+        actions: <Widget>[
+          new SimpleDialogOption(
+            child: new Text("CANCEL"),
+            onPressed: () {
+              Navigator.pop(context);
+            },
+          ),
+          new SimpleDialogOption(
+            child: new Text("DELETE"),
+            onPressed: () async {
+              Navigator.pop(context);
+
+              await showModalBottomSheet(
+                  context: context,
+                  builder: (BuildContext context) {
+                    return new SeasonFileDeletion(season);
+                  });
+
+              _reloadSeasons();
+            },
+          ),
+        ]);
+
+    showDialog(context: context, child: alert);
+  }
+
   _deleteEpisodeFile(Episode ep) {
     var alert = new AlertDialog(
         title: new Text("Deleting episode"),
         content: new Text("Are you sure you want to delete episode ${ep
-            .episodeNumber} from ${_getSeasonLabel(ep.seasonNumber)}"),
+            .episodeNumber} from ${getSeasonLabel(ep.seasonNumber)}"),
         actions: <Widget>[
           new SimpleDialogOption(
             child: new Text("CANCEL"),
@@ -275,10 +319,6 @@ class _ShowDetailState extends State<ShowDetail> {
     }
   }
 
-  String _getSeasonLabel(int number) {
-    return (number == 0) ? "Specials" : "Season ${number}";
-  }
-
   @override
   Widget build(BuildContext context) {
     StringBuffer summary = new StringBuffer();
@@ -299,7 +339,7 @@ class _ShowDetailState extends State<ShowDetail> {
             child: new Center(child: new CircularProgressIndicator()))
         : new Column(
             children: _seasons.values.map((Season season) {
-            String seasonLabel = _getSeasonLabel(season.number);
+            String seasonLabel = getSeasonLabel(season.number);
 
             List<Widget> episodesOrLoading = (_loadingAllEpisodes)
                 ? <Widget>[
@@ -375,7 +415,6 @@ class _ShowDetailState extends State<ShowDetail> {
                     List<Widget> texts = [];
 
                     if (ep.airDate != null) {
-
                       DateTime airDate = ep.airDate.toLocal();
 
                       texts.add(new Text(
@@ -435,16 +474,46 @@ class _ShowDetailState extends State<ShowDetail> {
                   season.monitored ? Icons.bookmark : Icons.bookmark_border;
 
               monitorEpOrLoading = new IconButton(
+                padding: const EdgeInsets.all(0.0),
                   icon: new Icon(monitoredSeason),
                   tooltip: tooltip,
                   onPressed: () => _monitorSeason(season));
             }
 
+            bool epsToDelete = false;
+
+            for (Episode ep in season.episodes) {
+              if (ep.hasFile) {
+                epsToDelete = true;
+                break;
+              }
+            }
+
+            PopupMenuButton<SeasonAction> seasonMenu = new PopupMenuButton(
+                padding: const EdgeInsets.all(0.0),
+                onSelected: (seasonAction) =>
+                    _executeSeasonAction(seasonAction, season),
+                itemBuilder: (BuildContext context) =>
+                    <PopupMenuItem<SeasonAction>>[
+                      const PopupMenuItem<SeasonAction>(
+                          value: SeasonAction.RENAME_EPISODES,
+                          child: const Text('Rename files')),
+                      new PopupMenuItem<SeasonAction>(
+                          value: SeasonAction.DELETE_EPISODES,
+                          enabled: epsToDelete,
+                          child: const Text('Delete files')),
+                    ]);
+
             Row title = new Row(
-              children: <Widget>[monitorEpOrLoading, new Text(seasonLabel)],
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: <Widget>[
+                monitorEpOrLoading,
+                new Text(seasonLabel),
+              ],
             );
 
             return new ExpansionTile(
+                leading: seasonMenu,
                 title: title,
                 backgroundColor: Colors.black12,
                 children: episodesOrLoading);
