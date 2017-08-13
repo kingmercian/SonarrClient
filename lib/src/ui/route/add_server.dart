@@ -28,7 +28,6 @@ class _AddServerState extends State<AddServer> {
 
   @override
   initState() async {
-    super.initState();
     await _loadInfo();
   }
 

@@ -175,7 +175,13 @@ class QueueItem {
 }
 
 class EventType {
-  static final values = <EventType>[GRABBED, IMPORTED, FAILED, DELETED];
+  static final values = <EventType>[
+    GRABBED,
+    IMPORTED,
+    FAILED,
+    DELETED,
+    RENAMED
+  ];
   static final GRABBED =
       new EventType._("grabbed", "Grabbed", Icons.cloud_download);
   static final IMPORTED = new EventType._(
@@ -184,6 +190,10 @@ class EventType {
       new EventType._("downloadFailed", "Download Failed", Icons.cloud_off);
   static final DELETED =
       new EventType._("episodeFileDeleted", "File Deleted", Icons.delete);
+  static final RENAMED =
+      new EventType._("episodeFileRenamed", "File Renamed", Icons.edit);
+  static final UNKNOWN =
+      new EventType._("unknown action", "Other", Icons.change_history);
 
   final String _type;
   final String _label;
@@ -196,7 +206,7 @@ class EventType {
       if (eventType._type == type) return eventType;
     }
 
-    return null;
+    return UNKNOWN;
   }
 
   IconData getIcon() => _icon;
