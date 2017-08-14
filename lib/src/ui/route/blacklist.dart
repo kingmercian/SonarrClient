@@ -4,17 +4,17 @@ import '../../model/model.dart';
 import '../../utils/utils.dart';
 import '../../network/network.dart';
 
-class History extends StatefulWidget {
+class Blacklist extends StatefulWidget {
   @override
-  _HistoryState createState() => new _HistoryState();
+  _BlacklistState createState() => new _BlacklistState();
 }
 
-class _HistoryState extends State<History> {
+class _BlacklistState extends State<Blacklist> {
   static final GlobalKey<ScaffoldState> _scaffoldKey =
       new GlobalKey<ScaffoldState>();
 
   bool _loading = true;
-  List<HistoryRecord> _historyRecords = new List<HistoryRecord>();
+  List<BlacklistedRelease> _blReleases = new List<BlacklistedRelease>();
 
   DateTime _tomorrow;
   DateTime _today;
@@ -22,24 +22,25 @@ class _HistoryState extends State<History> {
   int _currentPage;
   int _totalRecords;
 
-  _HistoryState() {
+  _BlacklistState() {
     _today = getTodayLocal();
     _tomorrow = getTomorrowLocal();
 
-    Client.prepare().then((_) => _getHistory());
+    Client.prepare().then((_) => _getBlacklist());
   }
 
-  _getHistory({int pageNumber: 1}) async {
-    if (pageNumber == 1) {
-      if (mounted) {
+  _getBlacklist({int pageNumber: 1}) async {
+    if (mounted) {
+      if (pageNumber == 1) {
         setState(() {
           _loading = true;
-          _historyRecords.clear();
+          _blReleases.clear();
         });
       }
     }
 
-    if (_totalRecords == null || _totalRecords > _historyRecords.length) {
+    if (_totalRecords == null || _totalRecords > _blReleases.length) {
+      print("totalRecords [$_totalRecords], have [${_blReleases.length}], getting page [$pageNumber]");
       await _getSynced(pageNumber);
     }
 
@@ -51,9 +52,9 @@ class _HistoryState extends State<History> {
   _getSynced(int pageNumber) async {
     if (!_requesting) {
       _requesting = true;
-      var historyPage = await Client.getInstance().getHistory(pageNumber, 15);
-      _historyRecords.addAll(historyPage.records);
-      _totalRecords = historyPage.totalRecords;
+      var blPage = await Client.getInstance().getBlacklist(pageNumber, 15);
+      _blReleases.addAll(blPage.records);
+      _totalRecords = blPage.totalRecords;
       _requesting = false;
       _currentPage = pageNumber;
     }
@@ -61,8 +62,6 @@ class _HistoryState extends State<History> {
 
   @override
   Widget build(BuildContext context) {
-    var screenSize = MediaQuery.of(context).size;
-    double textWidth = screenSize.width - 140.0;
 
     List<Widget> slivers = [];
 
@@ -75,12 +74,14 @@ class _HistoryState extends State<History> {
     } else {
       slivers.add(new SliverList(
           delegate: new SliverChildBuilderDelegate((context, index) {
-        if (index > _historyRecords.length) return null;
-        if (index == _historyRecords.length - 5)
-          _getHistory(pageNumber: _currentPage + 1);
+        if (index > _blReleases.length) return null;
+        if (index == _blReleases.length - 5) {
+          _getBlacklist(pageNumber: _currentPage + 1);
+        }
 
-        if (index == _historyRecords.length) {
-          if (_historyRecords.length == _totalRecords) return null;
+        if (index == _blReleases.length) {
+          if (_blReleases.length == _totalRecords) return null;
+
 
           return new Container(
             height: 50.0,
@@ -91,12 +92,12 @@ class _HistoryState extends State<History> {
 
         Color bgColor = (index % 2 == 0) ? Colors.black54 : Colors.black12;
 
-        HistoryRecord record = _historyRecords[index];
+        BlacklistedRelease record = _blReleases[index];
 
         Text airDateText;
-        bool hasAirDate = record.date != null;
+        bool date = record.date != null;
 
-        if (hasAirDate) {
+        if (date) {
           String airDateLabel = "";
           DateTime airDate = record.date.toLocal();
 
@@ -121,27 +122,24 @@ class _HistoryState extends State<History> {
           style: new TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),
         );
 
-        Text title =
-            new Text("${sxxepxx(record.seasonNumber, record.episodeNumber)} "
-                "- ${record.episodeTitle}");
+        Text title = new Text(record.releaseTitle);
 
         List<Widget> body = [];
 
-        if (hasAirDate) {
+        if (date) {
           body.add(airDateText);
         }
 
-        Text typeText = new Text(
-          record.type.getLabel(),
+        Text quality = new Text(
+          record.quality,
           style: new TextStyle(fontSize: 12.0, color: Colors.grey),
         );
 
-        body.addAll([show, title, typeText]);
+        body.addAll([show, title, quality]);
 
         double marginTop = index == 0 ? 12.0 : 0.0;
 
         Widget text = new Container(
-          width: textWidth,
           margin: const EdgeInsets.only(left: 12.0),
           child: new Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -149,28 +147,12 @@ class _HistoryState extends State<History> {
           ),
         );
 
-        Icon icon = new Icon(
-          record.type.getIcon(),
-          color: Colors.white,
-          size: 35.0,
-        );
-
-        Container iconContainer = new Container(
-          margin: const EdgeInsets.only(left: 12.0, right: 12.0),
-          child: icon,
-        );
-
-        Row row = new Row(
-          mainAxisAlignment: MainAxisAlignment.start,
-          children: <Widget>[iconContainer, text],
-        );
-
         return new Container(
             color: bgColor,
             margin: new EdgeInsets.fromLTRB(16.0, marginTop, 12.0, 0.0),
             padding: const EdgeInsets.fromLTRB(12.0, 12.0, 28.0, 12.0),
             alignment: FractionalOffset.centerLeft,
-            child: row);
+            child: text);
       })));
     }
 
@@ -178,7 +160,7 @@ class _HistoryState extends State<History> {
         key: _scaffoldKey,
         body: new RefreshIndicator(
             onRefresh: () async {
-              await _getHistory();
+              await _getBlacklist();
             },
             child: new CustomScrollView(slivers: slivers)));
   }
