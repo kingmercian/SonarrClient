@@ -31,11 +31,13 @@ class _WantedState extends State<Wanted> {
   }
 
   _getWanted({int pageNumber: 1}) async {
-    if (pageNumber == 1) {
-      setState(() {
-        _loading = true;
-        _missingRecords.clear();
-      });
+    if (mounted) {
+      if (pageNumber == 1) {
+        setState(() {
+          _loading = true;
+          _missingRecords.clear();
+        });
+      }
     }
 
     if (_totalRecords == null || _totalRecords > _missingRecords.length) {
@@ -105,6 +107,8 @@ class _WantedState extends State<Wanted> {
           _getWanted(pageNumber: _currentPage + 1);
 
         if (index == _missingRecords.length) {
+          if (_missingRecords.length == _totalRecords) return null;
+
           return new Container(
             height: 50.0,
             width: 50.0,

@@ -6,6 +6,7 @@ import 'wanted.dart';
 import 'add_show.dart';
 import 'queue.dart';
 import 'history.dart';
+import 'blacklist.dart';
 import '../widget/drawer.dart';
 
 class Home extends StatefulWidget {
@@ -26,15 +27,17 @@ class HomeState extends State<Home> {
 
   final List<Tab> _activityTabs = [
     new Tab(text: 'Queue'),
-    new Tab(text: 'History')
+    new Tab(text: 'History'),
+    new Tab(text: 'Blacklist')
   ];
   final _queue = new Queue();
   final _history = new History();
+  final _blacklist = new Blacklist();
 
   @override
   void initState() {
     super.initState();
-    _activity = new TabBarView(children: [_queue, _history]);
+    _activity = new TabBarView(children: [_queue, _history, _blacklist]);
 
     _content = [_shows, _calendar, _activity, _wanted];
 
@@ -85,7 +88,7 @@ class HomeState extends State<Home> {
 
     if (body is TabBarView) {
       return new DefaultTabController(
-        length: 2,
+        length: 3,
         initialIndex: 0,
         child: new Scaffold(
           appBar: new AppBar(
@@ -94,7 +97,7 @@ class HomeState extends State<Home> {
           ),
           drawer: drawer,
           bottomNavigationBar: botNavBar,
-          body: new TabBarView(children: [_queue, _history]),
+          body: body,
         ),
       );
     }

@@ -9,6 +9,8 @@ import 'dart:async';
 
 class Client {
   static Client _INSTANCE;
+  Map<int, Show> _showsCache = new Map();
+
   Server _server;
   Sonarr _sonarr;
 
@@ -42,6 +44,12 @@ class Client {
     result.sort((a, b) {
       return a.sortTitle.compareTo(b.sortTitle);
     });
+
+    _showsCache.clear();
+
+    for (Show show in result) {
+      _showsCache[show.id] = show;
+    }
 
     return result;
   }
@@ -232,6 +240,18 @@ class Client {
         "history?page=$page&pageSize=$pageSize"
         "&sortKey=date&sortDir=desc",
         parseHistoryPage);
+  }
+
+  Future<Page<BlacklistedRelease>> getBlacklist(int page, int pageSize) async {
+    if (_showsCache.isEmpty) {
+      await getShows();
+    }
+
+    String blacklist =
+        await _sonarr.getBody("blacklist?page=$page&pageSize=$pageSize"
+            "&sortKey=date&sortDir=desc");
+
+    return parseBlacklistPage(blacklist, _showsCache);
   }
 
   Future monitorSeason(int showId, int seasonNumber, bool monitor) async {

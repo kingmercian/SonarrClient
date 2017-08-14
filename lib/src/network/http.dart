@@ -101,6 +101,10 @@ class Sonarr {
   }
 
   Future get(String path, parse(String json)) async {
+    return parse(await getBody(path));
+  }
+
+  Future<String> getBody(String path) async {
     try {
       var response = await _get(path);
       print("GET $path [${response.statusCode}]");
@@ -109,7 +113,7 @@ class Sonarr {
         throw new InvalidApiKeyException();
       }
 
-      return parse(response.body);
+      return response.body;
     } on SocketException catch (_) {
       throw new CantConnectException();
     }
