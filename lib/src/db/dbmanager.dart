@@ -5,7 +5,7 @@ import 'package:sembast/sembast.dart';
 import 'package:sembast/sembast_io.dart';
 import 'dart:async';
 import 'package:path_provider/path_provider.dart';
-import '../network/server.dart';
+import '../network/network.dart';
 import '../model/model.dart';
 
 class DBManager {
@@ -43,9 +43,18 @@ class DBManager {
       ..path = server.path
       ..apiKey = server.apiKey;
 
+    // Remove any server
+    var records = await _db.findStoreRecords(_serverStore, new Finder());
+    for (Record record in records) {
+      await _db.deleteRecord(record);
+    }
+
+    // Add the new server
     Record record = new Record(
         _serverStore, {"hasServer": true, "server": modelServer.toMap()});
     await _db.putRecord(record);
+    await Client.prepare(forceReload: true);
+    await Notifications.prepare(forceReload: true);
   }
 
   Future<Server> getServer() async {
