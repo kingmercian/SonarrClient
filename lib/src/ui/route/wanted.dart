@@ -105,6 +105,8 @@ class _WantedState extends State<Wanted> {
           _getWanted(pageNumber: _currentPage + 1);
 
         if (index == _missingRecords.length) {
+          if (_missingRecords.length == _totalRecords) return null;
+
           return new Container(
             height: 50.0,
             width: 50.0,

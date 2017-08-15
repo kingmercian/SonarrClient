@@ -68,7 +68,7 @@ class _QueueState extends State<Queue> implements SonarrNotificationListener {
     Text title = new Text(item.episodeTitle);
 
     Text timeLeft = new Text(
-      item.timeLeft,
+      (item.timeLeft != null) ? item.timeLeft : "",
       style: new TextStyle(color: Colors.grey, fontSize: 12.0),
     );
 
