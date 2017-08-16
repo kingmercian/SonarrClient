@@ -291,3 +291,9 @@ class CantConnectException implements Exception {
     return "Can't connect to the server";
   }
 }
+
+class SSLUnsupportedException implements Exception {
+  String toString() {
+    return "SSL isn't supported in the server for the given port";
+  }
+}

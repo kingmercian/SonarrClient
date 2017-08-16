@@ -1,6 +1,7 @@
 /* Copyright (c) 2017 Miguel Castiblanco */
 class Server {
   bool https;
+  bool selfSignedCerts;
   String hostname;
   String path = "";
   int port;
