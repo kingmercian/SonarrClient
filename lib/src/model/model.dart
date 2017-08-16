@@ -164,6 +164,14 @@ class HistoryRecord {
   EventType type;
 }
 
+class BlacklistedRelease {
+  int id;
+  String showTitle;
+  String releaseTitle;
+  String quality;
+  DateTime date;
+}
+
 class QueueItem {
   String showTitle;
   String episodeTitle;

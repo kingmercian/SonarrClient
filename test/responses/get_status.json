@@ -1,0 +1,23 @@
+{
+  "appData": "/home/admin/.config/NzbDrone",
+  "authentication": "forms",
+  "branch": "master",
+  "buildTime": "2017-08-07T04:55:21Z",
+  "isAdmin": false,
+  "isDebug": false,
+  "isLinux": true,
+  "isMono": true,
+  "isMonoRuntime": true,
+  "isOsx": false,
+  "isProduction": true,
+  "isUserInteractive": false,
+  "isWindows": false,
+  "osName": "raspbian",
+  "osVersion": "8",
+  "runtimeName": "mono",
+  "runtimeVersion": "4.2.3",
+  "sqliteVersion": "3.8.7.1",
+  "startupPath": "/opt/NzbDrone",
+  "urlBase": "",
+  "version": "2.0.0.4928"
+}

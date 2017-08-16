@@ -72,8 +72,8 @@ class Notifications extends WidgetsBindingObserver{
     WidgetsBinding.instance.addObserver(this);
   }
 
-  static Future prepare() async {
-    if (_INSTANCE != null) return _INSTANCE;
+  static Future prepare({forceReload: false}) async {
+    if (_INSTANCE != null && !forceReload) return _INSTANCE;
 
     var server = await DBManager.getInstance().getServer();
     _INSTANCE = new Notifications._(server);

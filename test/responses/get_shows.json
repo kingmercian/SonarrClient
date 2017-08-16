@@ -1,0 +1,6147 @@
+[
+  {
+    "title": "Brooklyn Nine-Nine",
+    "alternateTitles": [],
+    "sortTitle": "brooklyn nine nine",
+    "seasonCount": 5,
+    "totalEpisodeCount": 94,
+    "episodeCount": 22,
+    "episodeFileCount": 22,
+    "sizeOnDisk": 14250663772,
+    "status": "continuing",
+    "overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+    "nextAiring": "2017-09-27T01:30:00Z",
+    "previousAiring": "2017-05-24T01:55:00Z",
+    "network": "FOX (US)",
+    "airTime": "21:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/2/fanart.jpg?lastWrite=636094950900000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/2/banner.jpg?lastWrite=636094951260000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/2/poster.jpg?lastWrite=636366719980000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 4,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 23,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 23,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-05-24T01:55:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 14250663772,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-09-27T01:30:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2013,
+    "path": "/media/USBHDD1/Shows/Brooklyn Nine-Nine",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 269586,
+    "tvRageId": 35774,
+    "tvMazeId": 49,
+    "firstAired": "2013-09-17T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:20.830141Z",
+    "seriesType": "standard",
+    "cleanTitle": "brooklynninenine",
+    "imdbId": "tt2467372",
+    "titleSlug": "brooklyn-nine-nine",
+    "certification": "TV-14",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:04:52.190076Z",
+    "ratings": {
+      "votes": 80,
+      "value": 8.4
+    },
+    "qualityProfileId": 3,
+    "id": 2
+  },
+  {
+    "title": "Dragon Ball Super",
+    "alternateTitles": [],
+    "sortTitle": "dragon ball super",
+    "seasonCount": 5,
+    "totalEpisodeCount": 105,
+    "episodeCount": 82,
+    "episodeFileCount": 82,
+    "sizeOnDisk": 35889879957,
+    "status": "continuing",
+    "overview": "This Sequel Series to Dragon Ball Z and a Prequel Series to Dragon Ball GT called \"Dragon Ball Super\" is set 6 months after Goku Son defeated the dangerous Majin Buu. Peace has returned to Earth and all the Dragon Ball champions A.K.A. The Z Fighters are settling into more normal lives, or are they?",
+    "nextAiring": "2017-08-19T23:00:00Z",
+    "previousAiring": "2017-08-12T23:00:00Z",
+    "network": "Fuji TV",
+    "airTime": "08:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/3/fanart.jpg?lastWrite=636234844490000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/3/banner.jpg?lastWrite=636347202350000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/3/poster.jpg?lastWrite=636340263090000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 2,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2015-10-10T23:00:00Z",
+          "episodeFileCount": 2,
+          "episodeCount": 2,
+          "totalEpisodeCount": 14,
+          "sizeOnDisk": 2745689936,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-01-16T23:00:00Z",
+          "episodeFileCount": 13,
+          "episodeCount": 13,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 4072123585,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-06-04T23:00:00Z",
+          "episodeFileCount": 10,
+          "episodeCount": 10,
+          "totalEpisodeCount": 19,
+          "sizeOnDisk": 4056822362,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-01-28T23:00:00Z",
+          "episodeFileCount": 30,
+          "episodeCount": 30,
+          "totalEpisodeCount": 30,
+          "sizeOnDisk": 10663835982,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-08-19T23:00:00Z",
+          "previousAiring": "2017-08-12T23:00:00Z",
+          "episodeFileCount": 27,
+          "episodeCount": 27,
+          "totalEpisodeCount": 27,
+          "sizeOnDisk": 14351408092,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2015,
+    "path": "/media/USBHDD1/Shows/Dragon Ball Super",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 295068,
+    "tvRageId": 48862,
+    "tvMazeId": 2368,
+    "firstAired": "2015-07-05T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:26.559413Z",
+    "seriesType": "anime",
+    "cleanTitle": "dragonballsuper",
+    "imdbId": "tt4644488",
+    "titleSlug": "dragon-ball-super",
+    "certification": "TV-PG",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:05:05.509756Z",
+    "ratings": {
+      "votes": 57,
+      "value": 9.1
+    },
+    "qualityProfileId": 3,
+    "id": 3
+  },
+  {
+    "title": "Halt and Catch Fire",
+    "alternateTitles": [],
+    "sortTitle": "halt catch fire",
+    "seasonCount": 4,
+    "totalEpisodeCount": 31,
+    "episodeCount": 30,
+    "episodeFileCount": 30,
+    "sizeOnDisk": 43805872293,
+    "status": "continuing",
+    "overview": "In the early 1980s a visionary, an engineer and a prodigy combine to confront the corporate behemoths of the time. Their personal and professional lives will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.",
+    "nextAiring": "2017-08-20T02:00:00Z",
+    "previousAiring": "2016-10-12T02:45:00Z",
+    "network": "AMC",
+    "airTime": "22:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/4/fanart.jpg?lastWrite=636379740610000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/4/banner.jpg?lastWrite=636094951990000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/4/poster.jpg?lastWrite=636373229040000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 1,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2014-08-04T02:00:00Z",
+          "episodeFileCount": 10,
+          "episodeCount": 10,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 14467454605,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2015-08-03T02:00:00Z",
+          "episodeFileCount": 10,
+          "episodeCount": 10,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 14332542096,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-10-12T02:45:00Z",
+          "episodeFileCount": 10,
+          "episodeCount": 10,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 15005875592,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-08-20T02:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2014,
+    "path": "/media/USBHDD1/Shows/Halt and Catch Fire",
+    "profileId": 3,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 271910,
+    "tvRageId": 33630,
+    "tvMazeId": 191,
+    "firstAired": "2014-06-01T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:42.668275Z",
+    "seriesType": "standard",
+    "cleanTitle": "haltcatchfire",
+    "imdbId": "tt2543312",
+    "titleSlug": "halt-and-catch-fire",
+    "certification": "TV-14",
+    "genres": [
+      "Drama"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:05:10.951989Z",
+    "ratings": {
+      "votes": 46,
+      "value": 8.2
+    },
+    "qualityProfileId": 3,
+    "id": 4
+  },
+  {
+    "title": "How I Met Your Mother",
+    "alternateTitles": [],
+    "sortTitle": "how i met your mother",
+    "seasonCount": 9,
+    "totalEpisodeCount": 212,
+    "episodeCount": 47,
+    "episodeFileCount": 47,
+    "sizeOnDisk": 48585289988,
+    "status": "ended",
+    "overview": "The year is 2030. Ted Mosby is relaying the story of how he met his wife to his daughter and son. The story starts in the year 2005, when then twenty-seven year old architect Ted was spurred on to want to get married after his best friends from his college days at Wesleyan, lawyer Marshall Eriksen, who was his roommate at the time and kindergarten teacher Lily Aldrin, got engaged after nine years of dating each other. Ted's new quest in life was much to the dismay of his womanizing friend, Barney Stinson. But soon after Marshall and Lily's engagement, Ted believed that his life mate was going to be news reporter and aspiring news anchor Robin Scherbatsky, who, despite having had a romantic relationship with her after this time, ended up being who the kids know as their \"Aunt\" Robin. As Ted relays the story to his kids, the constants are that their Uncle Marshall, Aunt Lily, Uncle Barney and Aunt Robin are always in the picture and thus have something to do with how he got together with their mother.",
+    "previousAiring": "2014-04-01T00:25:00Z",
+    "network": "CBS",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/5/fanart.jpg?lastWrite=636094990610000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/5/banner.jpg?lastWrite=636094990830000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/5/poster.jpg?lastWrite=636382777430000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 4,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2006-11-28T01:00:00Z",
+          "episodeFileCount": 9,
+          "episodeCount": 9,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 21271029548,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2013-05-14T00:00:00Z",
+          "episodeFileCount": 14,
+          "episodeCount": 14,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 10082929569,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2014-04-01T00:25:00Z",
+          "episodeFileCount": 24,
+          "episodeCount": 24,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 17231330871,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2005,
+    "path": "/media/USBHDD1/Shows/How I Met Your Mother",
+    "profileId": 4,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 75760,
+    "tvRageId": 3918,
+    "tvMazeId": 171,
+    "firstAired": "2005-09-19T07:00:00Z",
+    "lastInfoSync": "2017-08-14T03:22:06.375548Z",
+    "seriesType": "standard",
+    "cleanTitle": "howimetyourmother",
+    "imdbId": "tt0460649",
+    "titleSlug": "how-i-met-your-mother",
+    "certification": "TV-PG",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:05:19.44141Z",
+    "ratings": {
+      "votes": 604,
+      "value": 8.9
+    },
+    "qualityProfileId": 4,
+    "id": 5
+  },
+  {
+    "title": "Modern Family",
+    "alternateTitles": [],
+    "sortTitle": "modern family",
+    "seasonCount": 9,
+    "totalEpisodeCount": 190,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "This mockumentary explores the many different types of a modern family through the stories of a gay couple, comprised of Mitchell and Cameron, and their daughter Lily, a straight couple, comprised of Phil and Claire, and their three kids, Haley, Alex, and Luke, and a multi-ethnic couple, which is comprised of Jay and Gloria, and her son Manny.",
+    "nextAiring": "2017-09-28T01:00:00Z",
+    "network": "ABC (US)",
+    "airTime": "21:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/7/fanart.jpg?lastWrite=636372361080000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/7/banner.jpg?lastWrite=636110744530000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/7/poster.jpg?lastWrite=636364985140000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 2,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-09-28T01:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2009,
+    "path": "/media/USBHDD1/Shows/Modern Family",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 95011,
+    "tvRageId": 22622,
+    "tvMazeId": 80,
+    "firstAired": "2009-09-23T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:38:29.76033Z",
+    "seriesType": "standard",
+    "cleanTitle": "modernfamily",
+    "imdbId": "tt1442437",
+    "titleSlug": "modern-family",
+    "certification": "TV-PG",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:05:35.546092Z",
+    "ratings": {
+      "votes": 308,
+      "value": 8.8
+    },
+    "qualityProfileId": 3,
+    "id": 7
+  },
+  {
+    "title": "Mr. Robot",
+    "alternateTitles": [],
+    "sortTitle": "mr robot",
+    "seasonCount": 3,
+    "totalEpisodeCount": 25,
+    "episodeCount": 22,
+    "episodeFileCount": 22,
+    "sizeOnDisk": 39113777397,
+    "status": "continuing",
+    "overview": "Mr. Robot follows Elliot, a young programmer who works as a cyber-security engineer by day and a vigilante hacker by night. Elliot finds himself at a crossroad when the mysterious leader of an underground hacker group recruits him to destroy the corporation he is paid to protect.",
+    "nextAiring": "2017-10-12T02:00:00Z",
+    "previousAiring": "2016-09-22T02:00:00Z",
+    "network": "USA Network",
+    "airTime": "22:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/8/fanart.jpg?lastWrite=636374967590000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/8/banner.jpg?lastWrite=636206613040000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/8/poster.jpg?lastWrite=636262159880000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 3,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2015-09-03T02:00:00Z",
+          "episodeFileCount": 10,
+          "episodeCount": 10,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 25111855908,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-09-22T02:00:00Z",
+          "episodeFileCount": 12,
+          "episodeCount": 12,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 14001921489,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-10-12T02:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2015,
+    "path": "/media/USBHDD1/Shows/Mr. Robot",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 289590,
+    "tvRageId": 42422,
+    "tvMazeId": 1871,
+    "firstAired": "2015-06-24T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:38:37.936439Z",
+    "seriesType": "standard",
+    "cleanTitle": "mrrobot",
+    "imdbId": "tt4158110",
+    "titleSlug": "mr-robot",
+    "certification": "TV-MA",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Suspense",
+      "Thriller"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:05:38.341781Z",
+    "ratings": {
+      "votes": 155,
+      "value": 9.0
+    },
+    "qualityProfileId": 3,
+    "id": 8
+  },
+  {
+    "title": "One Piece",
+    "alternateTitles": [],
+    "sortTitle": "one piece",
+    "seasonCount": 19,
+    "totalEpisodeCount": 836,
+    "episodeCount": 66,
+    "episodeFileCount": 66,
+    "sizeOnDisk": 26778214002,
+    "status": "continuing",
+    "overview": "It was a time when pirates ruled the seas. Several bands of pirates were battling over the great hidden treasure, One Piece, which was left by the now legendary pirate captain, Gold Roger. There was a young boy who admired the pirates, his name was Monkey D. Luffy. One day, he mistakenly eats the devil's fruit and turns himself into a rubber human being.\n\nTen years have passed since that incident. Luffy sets out to sail all alone. He sets out to become a great pirate captain and that's when his great adventure begins. \"I'm going to be the Pirate King! I'm going to get One Piece!\".",
+    "nextAiring": "2017-08-20T00:30:00Z",
+    "previousAiring": "2017-08-13T00:30:00Z",
+    "network": "Fuji TV",
+    "airTime": "09:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/9/fanart.jpg?lastWrite=636120657990000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/9/banner.jpg?lastWrite=636094953670000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/9/poster.jpg?lastWrite=636372361330000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 36,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 17,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 9,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 39,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 52,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 31,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 99,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 12,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 56,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 13,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 100,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 14,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 35,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 15,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 62,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 16,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 49,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 17,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-06-19T00:30:00Z",
+          "episodeFileCount": 11,
+          "episodeCount": 11,
+          "totalEpisodeCount": 118,
+          "sizeOnDisk": 5538522957,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 18,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-03-05T00:30:00Z",
+          "episodeFileCount": 33,
+          "episodeCount": 33,
+          "totalEpisodeCount": 33,
+          "sizeOnDisk": 12356777716,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 19,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-08-20T00:30:00Z",
+          "previousAiring": "2017-08-13T00:30:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 8882913329,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 1999,
+    "path": "/media/USBHDD1/Shows/One Piece",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": true,
+    "runtime": 25,
+    "tvdbId": 81797,
+    "tvRageId": 8205,
+    "tvMazeId": 1505,
+    "firstAired": "1999-10-20T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:38:42.328343Z",
+    "seriesType": "anime",
+    "cleanTitle": "onepiece",
+    "imdbId": "tt0388629",
+    "titleSlug": "one-piece",
+    "certification": "TV-PG",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:05:49.684343Z",
+    "ratings": {
+      "votes": 883,
+      "value": 8.5
+    },
+    "qualityProfileId": 3,
+    "id": 9
+  },
+  {
+    "title": "The Walking Dead",
+    "alternateTitles": [],
+    "sortTitle": "walking dead",
+    "seasonCount": 8,
+    "totalEpisodeCount": 137,
+    "episodeCount": 7,
+    "episodeFileCount": 7,
+    "sizeOnDisk": 20587895020,
+    "status": "continuing",
+    "overview": "The world we knew is gone. An epidemic of apocalyptic proportions has swept the globe causing the dead to rise and feed on the living. In a matter of months society has crumbled. In a world ruled by the dead, we are forced to finally start living. Based on a comic book series of the same name by Robert Kirkman, this AMC project focuses on the world after a zombie apocalypse. The series follows a police officer, Rick Grimes, who wakes up from a coma to find the world ravaged with zombies. Looking for his family, he and a group of survivors attempt to battle against the zombies in order to stay alive.",
+    "nextAiring": "2017-10-23T01:00:00Z",
+    "previousAiring": "2017-04-03T01:00:00Z",
+    "network": "AMC",
+    "airTime": "21:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/12/fanart.jpg?lastWrite=636364552170000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/12/banner.jpg?lastWrite=636359347320000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/12/poster.jpg?lastWrite=636368456670000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 38,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-04-03T01:00:00Z",
+          "episodeFileCount": 7,
+          "episodeCount": 7,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 20587895020,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-10-23T01:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2010,
+    "path": "/media/USBHDD1/Shows/The Walking Dead",
+    "profileId": 4,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 153021,
+    "tvRageId": 25056,
+    "tvMazeId": 73,
+    "firstAired": "2010-10-31T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:52.76505Z",
+    "seriesType": "standard",
+    "cleanTitle": "thewalkingdead",
+    "imdbId": "tt1520211",
+    "titleSlug": "the-walking-dead",
+    "certification": "TV-MA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Suspense"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:06:26.178523Z",
+    "ratings": {
+      "votes": 1432,
+      "value": 9.0
+    },
+    "qualityProfileId": 4,
+    "id": 12
+  },
+  {
+    "title": "Titus",
+    "alternateTitles": [],
+    "sortTitle": "titus",
+    "seasonCount": 3,
+    "totalEpisodeCount": 54,
+    "episodeCount": 31,
+    "episodeFileCount": 31,
+    "sizeOnDisk": 5690513408,
+    "status": "ended",
+    "overview": "This half-hour comedy chronicles the hilarious world of Christopher Titus and his totally messed-up poor white trash family. Between his drunken father, his dimwitted brother, and his goody-goody best friend, it's amazing Titus is alive, let alone engaged to a \"normal\" girl. Titus adapted Christopher Titus' stand-up routine in a novel way: each episode is narrated by Titus from a black & white \"Neutral Space,\" from which he comments on the events as they unfold, punctuated by short, surreal flashbacks to his childhood and adolescence. The hilarious interplay between these three levels of narrative is sometimes amazingly complex and even contradictory, highlighting the exceedingly black nature of the show's humor.",
+    "previousAiring": "2002-01-16T05:00:00Z",
+    "network": "FOX (US)",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/13/fanart.jpg?lastWrite=636094991420000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/13/banner.jpg?lastWrite=636094991430000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/13/poster.jpg?lastWrite=636094991440000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 9,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2001-05-22T04:00:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 4039143424,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2002-01-16T05:00:00Z",
+          "episodeFileCount": 9,
+          "episodeCount": 9,
+          "totalEpisodeCount": 21,
+          "sizeOnDisk": 1651369984,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2000,
+    "path": "/media/USBHDD1/Shows/Titus",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 30,
+    "tvdbId": 73809,
+    "tvRageId": 6367,
+    "tvMazeId": 4057,
+    "firstAired": "2000-03-20T08:00:00Z",
+    "lastInfoSync": "2017-08-14T03:24:03.383306Z",
+    "seriesType": "standard",
+    "cleanTitle": "titus",
+    "imdbId": "tt0205700",
+    "titleSlug": "titus",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:06:30.779943Z",
+    "ratings": {
+      "votes": 12,
+      "value": 7.9
+    },
+    "qualityProfileId": 1,
+    "id": 13
+  },
+  {
+    "title": "Vicious",
+    "alternateTitles": [],
+    "sortTitle": "vicious",
+    "seasonCount": 2,
+    "totalEpisodeCount": 14,
+    "episodeCount": 1,
+    "episodeFileCount": 1,
+    "sizeOnDisk": 515331395,
+    "status": "ended",
+    "overview": "Freddie and Stuart are an old couple who have been together for decades and bicker constantly. Their lives are turned upside down by their new upstairs neighbor Ash, who is sure to cause trouble in their mundane lives.",
+    "previousAiring": "2015-07-06T20:00:00Z",
+    "network": "ITV",
+    "airTime": "21:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/14/fanart.jpg?lastWrite=636094991430000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/14/banner.jpg?lastWrite=636094991450000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/14/poster.jpg?lastWrite=636383212510000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 2,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2015-07-06T20:00:00Z",
+          "episodeFileCount": 1,
+          "episodeCount": 1,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 515331395,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2013,
+    "path": "/media/USBHDD1/Shows/Vicious",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 30,
+    "tvdbId": 267971,
+    "tvRageId": 34553,
+    "tvMazeId": 317,
+    "firstAired": "2013-04-29T07:00:00Z",
+    "lastInfoSync": "2017-08-14T15:27:30.016201Z",
+    "seriesType": "standard",
+    "cleanTitle": "vicious",
+    "imdbId": "tt2582590",
+    "titleSlug": "vicious",
+    "certification": "TV-14",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2016-06-08T00:06:33.78618Z",
+    "ratings": {
+      "votes": 17,
+      "value": 8.2
+    },
+    "qualityProfileId": 3,
+    "id": 14
+  },
+  {
+    "title": "Last Week Tonight with John Oliver",
+    "alternateTitles": [],
+    "sortTitle": "last week tonight with john oliver",
+    "seasonCount": 4,
+    "totalEpisodeCount": 152,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Last Week Tonight with John Oliver is an American late-night talk and news satire television program.  \nL.W.T draws its comedy and satire from recent news stories, political figures, media organizations, pop culture and often aspects of the show itself.",
+    "network": "HBO",
+    "airTime": "23:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/15/fanart.jpg?lastWrite=636256088630000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/15/banner.jpg?lastWrite=636230943350000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/15/poster.jpg?lastWrite=636094952030000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 42,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 35,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 30,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 21,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2014,
+    "path": "/media/USBHDD1/Shows/Last Week Tonight with John Oliver",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 35,
+    "tvdbId": 278518,
+    "tvRageId": 40882,
+    "tvMazeId": 263,
+    "firstAired": "2014-04-27T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:54.284827Z",
+    "seriesType": "standard",
+    "cleanTitle": "lastweektonightwithjohnoliver",
+    "imdbId": "tt3530232",
+    "titleSlug": "last-week-tonight-with-john-oliver",
+    "certification": "TV-MA",
+    "genres": [
+      "Comedy",
+      "News",
+      "Talk Show"
+    ],
+    "tags": [],
+    "added": "2016-06-09T14:36:29.165391Z",
+    "ratings": {
+      "votes": 71,
+      "value": 9.3
+    },
+    "qualityProfileId": 3,
+    "id": 15
+  },
+  {
+    "title": "The Late Show with Stephen Colbert",
+    "alternateTitles": [
+      {
+        "title": "Stephen Colbert",
+        "seasonNumber": -1
+      },
+      {
+        "title": "Late Show with Stephen Colbert",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "late show with stephen colbert",
+    "seasonCount": 2,
+    "totalEpisodeCount": 417,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Improv actor and comic Stephen Colbert leaves his \"The Colbert Report\" character behind as he makes his long-awaited return to television. As the host of The Late Show franchise redux -- taped at the historic Ed Sullivan Theatre at New York -- Colbert talks to actors, athletes, politicians, comics, artists and musicians as himself for the first time. Loyal fans, however, will also be treated to consistency as Colbert remains backed by many members of his writing and digital team from his former venture. Julliard-trained Jon Batiste serves as the bandleader.",
+    "network": "CBS",
+    "airTime": "23:35",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/16/fanart.jpg?lastWrite=636216582580000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/16/banner.jpg?lastWrite=636096517240000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/16/poster.jpg?lastWrite=636217016510000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 202,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 203,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2015,
+    "path": "/media/USBHDD1/Shows/The Late Show with Stephen Colbert",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 289574,
+    "tvRageId": 0,
+    "tvMazeId": 2756,
+    "firstAired": "2015-09-08T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:38:17.447935Z",
+    "seriesType": "daily",
+    "cleanTitle": "thelateshowwithstephencolbert",
+    "imdbId": "tt3697842",
+    "titleSlug": "the-late-show-with-stephen-colbert",
+    "certification": "TV-14",
+    "genres": [
+      "Comedy",
+      "Talk Show"
+    ],
+    "tags": [],
+    "added": "2016-06-17T15:59:07.772395Z",
+    "ratings": {
+      "votes": 18,
+      "value": 7.8
+    },
+    "qualityProfileId": 1,
+    "id": 16
+  },
+  {
+    "title": "BattleBots (2015)",
+    "alternateTitles": [],
+    "sortTitle": "battlebots 2015",
+    "seasonCount": 2,
+    "totalEpisodeCount": 21,
+    "episodeCount": 1,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "BattleBots promises to wow viewers with next generation robots—bigger, faster and stronger than ever before. The show will focus on the design and build of each robot, the bot builder backstories, their intense pursuit of the championship and the spectacle of the event.",
+    "previousAiring": "2016-09-02T00:45:00Z",
+    "network": "ABC (US)",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/26/fanart.jpg?lastWrite=636094950530000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/26/banner.jpg?lastWrite=636094950800000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/26/poster.jpg?lastWrite=636094950890000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-09-02T00:45:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 9,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2015,
+    "path": "/media/USBHDD1/Shows/BattleBots (2015)",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 294206,
+    "tvRageId": 49635,
+    "tvMazeId": 2203,
+    "firstAired": "2015-06-21T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:16.242294Z",
+    "seriesType": "standard",
+    "cleanTitle": "battlebots2015",
+    "imdbId": "tt4816364",
+    "titleSlug": "battlebots-2015",
+    "certification": "TV-PG",
+    "genres": [
+      "Game Show",
+      "Reality"
+    ],
+    "tags": [],
+    "added": "2016-07-10T19:56:22.311894Z",
+    "ratings": {
+      "votes": 4,
+      "value": 9.0
+    },
+    "qualityProfileId": 3,
+    "id": 26
+  },
+  {
+    "title": "Pokémon",
+    "alternateTitles": [
+      {
+        "title": "Indigo League",
+        "sceneSeasonNumber": 1
+      },
+      {
+        "title": "Adventures on the Orange Islands",
+        "sceneSeasonNumber": 2
+      },
+      {
+        "title": "The Johto Journeys",
+        "sceneSeasonNumber": 3
+      },
+      {
+        "title": "Johto League Champions",
+        "sceneSeasonNumber": 4
+      },
+      {
+        "title": "Master Quest",
+        "sceneSeasonNumber": 5
+      },
+      {
+        "title": "Advanced",
+        "sceneSeasonNumber": 6
+      },
+      {
+        "title": "Advanced Challenge",
+        "sceneSeasonNumber": 7
+      },
+      {
+        "title": "Advanced Battle",
+        "sceneSeasonNumber": 8
+      },
+      {
+        "title": "Battle Frontier",
+        "sceneSeasonNumber": 9
+      },
+      {
+        "title": "Diamond and Pearl",
+        "sceneSeasonNumber": 10
+      },
+      {
+        "title": "Diamond and Pearl: Battle Dimension",
+        "sceneSeasonNumber": 11
+      },
+      {
+        "title": "Diamond and Pearl: Galactic Battles",
+        "sceneSeasonNumber": 12
+      },
+      {
+        "title": "Diamond and Pearl: Sinnoh League Victors",
+        "sceneSeasonNumber": 13
+      },
+      {
+        "title": "Black & White",
+        "sceneSeasonNumber": 14
+      },
+      {
+        "title": "Black & White: Rival Destinies",
+        "sceneSeasonNumber": 15
+      },
+      {
+        "title": "Black & White: Adventures in Unova",
+        "sceneSeasonNumber": 16
+      },
+      {
+        "title": "XY",
+        "sceneSeasonNumber": 17
+      },
+      {
+        "title": "XY: Kalos Quest",
+        "sceneSeasonNumber": 18
+      },
+      {
+        "title": "XY&Z",
+        "sceneSeasonNumber": 19
+      },
+      {
+        "title": "Sun & Moon",
+        "sceneSeasonNumber": 20
+      },
+      {
+        "title": "Pokemon",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "pokémon",
+    "seasonCount": 18,
+    "totalEpisodeCount": 1039,
+    "episodeCount": 93,
+    "episodeFileCount": 9,
+    "sizeOnDisk": 2006059371,
+    "status": "continuing",
+    "overview": "A young boy named Ash Ketchum embarks on a journey to become a \"Pokemon Master\" with his first Pokemon, Pikachu. Joining him on his travels are Brock, a girl-obsessed Rock Pokemon Trainer, and Misty, a tomboyish Water Pokemon Trainer who may have a crush on him. Ash and Co. end up traveling through various regions, including Kanto, the Orange Islands, and Johto, and then enter the Pokemon League competitions there. Along the way, they run into many confrontations with Jessie, James, and Meowth, a trio of Pokemon thieves who are apart of an evil organization called \"Team Rocket\". But everytime Team Rocket try to do their evil deeds, they fail thanks to Ash and his Pokemon.",
+    "previousAiring": "2017-08-03T09:30:00Z",
+    "network": "TV Tokyo",
+    "airTime": "18:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/31/fanart.jpg?lastWrite=636371493730000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/31/banner.jpg?lastWrite=636094953960000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/31/poster.jpg?lastWrite=636372361670000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2013-10-03T09:30:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 65,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "1997-05-20T09:55:00Z",
+          "episodeFileCount": 9,
+          "episodeCount": 9,
+          "totalEpisodeCount": 82,
+          "sizeOnDisk": 2006059371,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 36,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 41,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 52,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 65,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 40,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 52,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 52,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 47,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 51,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 52,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 12,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 53,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 13,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 34,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 14,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 84,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 15,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 58,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 16,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 92,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 17,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 47,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 18,
+        "monitored": true,
+        "statistics": {
+          "previousAiring": "2017-08-03T09:30:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 36,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 1997,
+    "path": "/media/USBHDD1/Shows/Pokémon",
+    "profileId": 2,
+    "seasonFolder": true,
+    "monitored": false,
+    "useSceneNumbering": true,
+    "runtime": 25,
+    "tvdbId": 76703,
+    "tvRageId": 31,
+    "tvMazeId": 590,
+    "firstAired": "1997-04-01T08:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:09.079411Z",
+    "seriesType": "anime",
+    "cleanTitle": "pokemon",
+    "imdbId": "tt0176385",
+    "titleSlug": "pokemon",
+    "certification": "TV-PG",
+    "genres": [
+      "Action",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "tags": [],
+    "added": "2016-07-24T06:39:20.920352Z",
+    "ratings": {
+      "votes": 132,
+      "value": 7.4
+    },
+    "qualityProfileId": 2,
+    "id": 31
+  },
+  {
+    "title": "Stranger Things",
+    "alternateTitles": [],
+    "sortTitle": "stranger things",
+    "seasonCount": 2,
+    "totalEpisodeCount": 8,
+    "episodeCount": 3,
+    "episodeFileCount": 3,
+    "sizeOnDisk": 4552616780,
+    "status": "continuing",
+    "overview": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+    "nextAiring": "2017-10-27T07:00:00Z",
+    "previousAiring": "2016-07-15T07:00:00Z",
+    "network": "Netflix",
+    "airTime": "00:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/35/fanart.jpg?lastWrite=636368456600000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/35/banner.jpg?lastWrite=636094954100000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/35/poster.jpg?lastWrite=636384513880000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": true,
+        "statistics": {
+          "previousAiring": "2016-07-15T07:00:00Z",
+          "episodeFileCount": 3,
+          "episodeCount": 3,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 4552616780,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-10-27T07:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2016,
+    "path": "/media/USBHDD1/Shows/Stranger Things",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 50,
+    "tvdbId": 305288,
+    "tvRageId": 0,
+    "tvMazeId": 2993,
+    "firstAired": "2016-07-15T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:43.720494Z",
+    "seriesType": "standard",
+    "cleanTitle": "strangerthings",
+    "imdbId": "tt4574334",
+    "titleSlug": "stranger-things",
+    "certification": "TV-14",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Suspense"
+    ],
+    "tags": [],
+    "added": "2016-08-03T02:46:17.727094Z",
+    "ratings": {
+      "votes": 78,
+      "value": 9.2
+    },
+    "qualityProfileId": 3,
+    "id": 35
+  },
+  {
+    "title": "Battlestar Galactica: Blood & Chrome",
+    "alternateTitles": [],
+    "sortTitle": "battlestar galactica blood chrome",
+    "seasonCount": 1,
+    "totalEpisodeCount": 11,
+    "episodeCount": 10,
+    "episodeFileCount": 10,
+    "sizeOnDisk": 3485782734,
+    "status": "ended",
+    "overview": "Battlestar: Blood & Chrome takes place in the 10th year of the first Cylon war. As the battle between humans and their creation, a sentient robotic race, rages across the 12 colonial worlds, a brash rookie viper pilot enters the fray. Ensign William Adama (Pasqualino), barely in his 20's and a recent Academy graduate, finds himself assigned to one of the most powerful ships in the Colonial fleet...the Galactica. The talented but hot-headed risk-taker soon finds himself leading a dangerous top secret mission that, if successful, will turn the tide of the decade-long war in favor of the desperate fleet.",
+    "previousAiring": "2012-12-07T05:10:00Z",
+    "network": "YouTube",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/40/fanart.jpg?lastWrite=636094990340000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/40/banner.jpg?lastWrite=636094990360000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/40/poster.jpg?lastWrite=636094990380000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 1,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2012-12-07T05:10:00Z",
+          "episodeFileCount": 10,
+          "episodeCount": 10,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 3485782734,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2012,
+    "path": "/media/USBHDD1/Shows/Battlestar Galactica- Blood & Chrome",
+    "profileId": 6,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 10,
+    "tvdbId": 204781,
+    "tvRageId": 26832,
+    "tvMazeId": 0,
+    "firstAired": "2012-11-09T08:00:00Z",
+    "lastInfoSync": "2017-08-14T03:21:31.728041Z",
+    "seriesType": "standard",
+    "cleanTitle": "battlestargalacticabloodchrome",
+    "imdbId": "tt1704292",
+    "titleSlug": "battlestar-galactica-blood-and-chrome",
+    "genres": [
+      "Drama",
+      "Science-Fiction"
+    ],
+    "tags": [],
+    "added": "2016-08-28T15:04:49.34192Z",
+    "ratings": {
+      "votes": 34,
+      "value": 8.4
+    },
+    "qualityProfileId": 6,
+    "id": 40
+  },
+  {
+    "title": "Parks and Recreation",
+    "alternateTitles": [],
+    "sortTitle": "parks recreation",
+    "seasonCount": 7,
+    "totalEpisodeCount": 130,
+    "episodeCount": 125,
+    "episodeFileCount": 125,
+    "sizeOnDisk": 93007133423,
+    "status": "ended",
+    "overview": "The series follows Leslie Knope, the deputy head of the Parks and Recreation department in the fictional town of Pawnee, Indiana. Knope takes on a project with a nurse named Ann to turn a construction pit into a park, while trying to mentor a bored college-aged intern. However, Leslie must fight through the bureaucrats, problem neighbors, and developers in order to make her dream a reality, all while with a camera crew recording her every gaff and mishap.",
+    "previousAiring": "2015-02-25T01:25:00Z",
+    "network": "NBC",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/46/fanart.jpg?lastWrite=636102607870000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/46/banner.jpg?lastWrite=636102607880000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/46/poster.jpg?lastWrite=636102607890000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 5,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2009-05-15T00:00:00Z",
+          "episodeFileCount": 6,
+          "episodeCount": 6,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 4296321441,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2010-05-21T00:00:00Z",
+          "episodeFileCount": 24,
+          "episodeCount": 24,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 19319342854,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2011-05-20T00:25:00Z",
+          "episodeFileCount": 16,
+          "episodeCount": 16,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 12241754390,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2012-05-11T00:00:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 16094867952,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2013-05-03T00:00:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 15883976228,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2014-04-25T00:25:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 15972512835,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2015-02-25T01:25:00Z",
+          "episodeFileCount": 13,
+          "episodeCount": 13,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 9198357723,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2009,
+    "path": "/media/USBHDD1/Shows/Parks and Recreation",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 84912,
+    "tvRageId": 21686,
+    "tvMazeId": 174,
+    "firstAired": "2009-04-09T07:00:00Z",
+    "lastInfoSync": "2017-08-14T03:23:16.331412Z",
+    "seriesType": "standard",
+    "cleanTitle": "parksrecreation",
+    "imdbId": "tt1266020",
+    "titleSlug": "parks-and-recreation",
+    "certification": "TV-14",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2016-09-23T20:53:02.324895Z",
+    "ratings": {
+      "votes": 144,
+      "value": 8.7
+    },
+    "qualityProfileId": 3,
+    "id": 46
+  },
+  {
+    "title": "Shark Tank",
+    "alternateTitles": [],
+    "sortTitle": "shark tank",
+    "seasonCount": 9,
+    "totalEpisodeCount": 176,
+    "episodeCount": 9,
+    "episodeFileCount": 9,
+    "sizeOnDisk": 8785846198,
+    "status": "continuing",
+    "overview": "Shark Tank follows aspiring entrepreneurs as they present various business ideas to moguls (known as \"the sharks\") in hopes of landing an investment in their ideas. Each week, ambitious entrepreneurs present their breakthrough business concepts to ruthless investors to convince them to invest in the concept.",
+    "nextAiring": "2017-10-02T01:00:00Z",
+    "previousAiring": "2017-05-13T01:00:00Z",
+    "network": "ABC (US)",
+    "airTime": "21:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/47/fanart.jpg?lastWrite=636236579670000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/47/banner.jpg?lastWrite=636104576350000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/47/poster.jpg?lastWrite=636194419470000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 1,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 26,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 29,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 29,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 29,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-05-13T01:00:00Z",
+          "episodeFileCount": 9,
+          "episodeCount": 9,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 8785846198,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-10-02T01:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2009,
+    "path": "/media/USBHDD1/Shows/Shark Tank",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 100981,
+    "tvRageId": 22610,
+    "tvMazeId": 329,
+    "firstAired": "2009-08-09T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:40.900501Z",
+    "seriesType": "standard",
+    "cleanTitle": "sharktank",
+    "imdbId": "tt1442550",
+    "titleSlug": "shark-tank",
+    "certification": "TV-PG",
+    "genres": [
+      "Reality"
+    ],
+    "tags": [],
+    "added": "2016-09-26T03:33:50.729196Z",
+    "ratings": {
+      "votes": 11,
+      "value": 8.1
+    },
+    "qualityProfileId": 3,
+    "id": 47
+  },
+  {
+    "title": "Planet Earth II",
+    "alternateTitles": [
+      {
+        "title": "Planet Earth II 2016",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "planet earth ii",
+    "seasonCount": 1,
+    "totalEpisodeCount": 17,
+    "episodeCount": 6,
+    "episodeFileCount": 6,
+    "sizeOnDisk": 22106309006,
+    "status": "ended",
+    "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+    "previousAiring": "2016-12-11T00:00:00Z",
+    "network": "BBC One",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/62/fanart.jpg?lastWrite=636208780670000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/62/banner.jpg?lastWrite=636311627910000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/62/poster.jpg?lastWrite=636311627910000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": true,
+        "statistics": {
+          "previousAiring": "2016-12-11T00:00:00Z",
+          "episodeFileCount": 6,
+          "episodeCount": 6,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 22106309006,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2016,
+    "path": "/media/USBHDD1/Shows/Planet Earth II",
+    "profileId": 4,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 318408,
+    "tvRageId": 0,
+    "tvMazeId": 22036,
+    "firstAired": "2016-11-06T07:00:00Z",
+    "lastInfoSync": "2017-07-23T01:00:45.61945Z",
+    "seriesType": "standard",
+    "cleanTitle": "planetearthii",
+    "imdbId": "tt5491994",
+    "titleSlug": "planet-earth-ii",
+    "certification": "TV-G",
+    "genres": [
+      "Documentary",
+      "Mini-Series"
+    ],
+    "tags": [],
+    "added": "2016-11-07T08:06:35.09453Z",
+    "ratings": {
+      "votes": 17,
+      "value": 9.3
+    },
+    "qualityProfileId": 4,
+    "id": 62
+  },
+  {
+    "title": "Hell's Kitchen (US)",
+    "alternateTitles": [],
+    "sortTitle": "hells kitchen us",
+    "seasonCount": 17,
+    "totalEpisodeCount": 250,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Hell's Kitchen (US) is an American reality television cooking competition (based on the British series of the same name) broadcast on Fox. It is hosted by celebrity chef Gordon Ramsay",
+    "nextAiring": "2017-09-30T00:00:00Z",
+    "network": "FOX (US)",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/63/fanart.jpg?lastWrite=636141330600000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/63/banner.jpg?lastWrite=636337660600000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/63/poster.jpg?lastWrite=636243950030000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 12,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 13,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 14,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 15,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 16,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 16,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 17,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-09-30T00:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2005,
+    "path": "/media/USBHDD1/Shows/Hell's Kitchen (US)",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 74897,
+    "tvRageId": 3828,
+    "tvMazeId": 253,
+    "firstAired": "2005-05-30T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:45.550169Z",
+    "seriesType": "standard",
+    "cleanTitle": "hellskitchenus",
+    "imdbId": "tt0437005",
+    "titleSlug": "hells-kitchen-us",
+    "certification": "TV-14",
+    "genres": [
+      "Food",
+      "Game Show",
+      "Reality"
+    ],
+    "tags": [],
+    "added": "2016-11-07T16:30:55.389603Z",
+    "ratings": {
+      "votes": 42,
+      "value": 8.2
+    },
+    "qualityProfileId": 1,
+    "id": 63
+  },
+  {
+    "title": "Friends",
+    "alternateTitles": [],
+    "sortTitle": "friends",
+    "seasonCount": 10,
+    "totalEpisodeCount": 242,
+    "episodeCount": 105,
+    "episodeFileCount": 105,
+    "sizeOnDisk": 91549494898,
+    "status": "ended",
+    "overview": "Rachel Green, Ross Geller, Monica Geller, Joey Tribbiani, Chandler Bing and Phoebe Buffay are all friends, living off of one another in the heart of New York City. Over the course of ten years, this average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.",
+    "previousAiring": "1999-05-21T00:25:00Z",
+    "network": "NBC",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/64/fanart.jpg?lastWrite=636382777100000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/64/banner.jpg?lastWrite=636144238480000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/64/poster.jpg?lastWrite=636144238480000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "1995-05-19T00:00:00Z",
+          "episodeFileCount": 24,
+          "episodeCount": 24,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 17958981255,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "1995-11-17T01:00:00Z",
+          "episodeFileCount": 8,
+          "episodeCount": 8,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 7480211021,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "1997-05-16T00:00:00Z",
+          "episodeFileCount": 25,
+          "episodeCount": 25,
+          "totalEpisodeCount": 25,
+          "sizeOnDisk": 33072542939,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "1998-05-08T00:25:00Z",
+          "episodeFileCount": 24,
+          "episodeCount": 24,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 31192486892,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "1999-05-21T00:25:00Z",
+          "episodeFileCount": 24,
+          "episodeCount": 24,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 1845272791,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 25,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 1994,
+    "path": "/media/USBHDD1/Shows/Friends",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 79168,
+    "tvRageId": 3616,
+    "tvMazeId": 431,
+    "firstAired": "1994-09-22T07:00:00Z",
+    "lastInfoSync": "2017-08-14T03:21:43.710745Z",
+    "seriesType": "standard",
+    "cleanTitle": "friends",
+    "imdbId": "tt0108778",
+    "titleSlug": "friends",
+    "certification": "TV-14",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "tags": [],
+    "added": "2016-11-11T01:17:20.312861Z",
+    "ratings": {
+      "votes": 325,
+      "value": 9.1
+    },
+    "qualityProfileId": 3,
+    "id": 64
+  },
+  {
+    "title": "Say Yes To The Dress",
+    "alternateTitles": [],
+    "sortTitle": "say yes to dress",
+    "seasonCount": 15,
+    "totalEpisodeCount": 273,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Say Yes to the Dress delves into the heart of world famous Kleinfeld Bridal where the staff face immense pressure to help each bride find the dress if her dreams.Take a peak at the brides as they try on their dream dresses! The show brings us up close and into the dressing room as brides prepare for their big day. Moms, bridemaids and friends all express their opinions and often frustrate both bride and staff. In the end though, most brides find that \"dream dress\" and walk down with their grooms into wedded bliss.",
+    "network": "TLC",
+    "airTime": "21:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/65/fanart.jpg?lastWrite=636144243320000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/65/banner.jpg?lastWrite=636144243340000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/65/poster.jpg?lastWrite=636144243340000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 3,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 25,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 19,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 19,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 12,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 17,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 13,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 18,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 14,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 19,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 15,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2007,
+    "path": "/media/USBHDD1/Shows/Say Yes To The Dress",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 30,
+    "tvdbId": 80836,
+    "tvRageId": 17627,
+    "tvMazeId": 2932,
+    "firstAired": "2007-10-12T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:36.297027Z",
+    "seriesType": "standard",
+    "cleanTitle": "sayyestodress",
+    "imdbId": "tt1166709",
+    "titleSlug": "say-yes-to-the-dress",
+    "certification": "TV-PG",
+    "genres": [
+      "Reality"
+    ],
+    "tags": [],
+    "added": "2016-11-11T01:25:24.802264Z",
+    "ratings": {
+      "votes": 2,
+      "value": 5.5
+    },
+    "qualityProfileId": 3,
+    "id": 65
+  },
+  {
+    "title": "The X-Files",
+    "alternateTitles": [
+      {
+        "title": "X-Files",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "x files",
+    "seasonCount": 11,
+    "totalEpisodeCount": 214,
+    "episodeCount": 6,
+    "episodeFileCount": 6,
+    "sizeOnDisk": 10414685822,
+    "status": "continuing",
+    "overview": "The X-Files focused on the exploits of FBI Agents Fox Mulder, Dana Scully, John Doggett and Monica Reyes and their investigations into the paranormal. From genetic mutants and killer insects to a global conspiracy concerning the colonization of Earth by an alien species, this mind-boggling, humorous and occasionally frightening series created by Chris Carter has been one of the world's most popular sci-fi/drama shows since its humble beginnings in 1993.",
+    "previousAiring": "2016-02-23T01:00:00Z",
+    "network": "FOX (US)",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/66/fanart.jpg?lastWrite=636188869280000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/66/banner.jpg?lastWrite=636144369530000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/66/poster.jpg?lastWrite=636144369530000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 25,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 21,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": true,
+        "statistics": {
+          "previousAiring": "2016-02-23T01:00:00Z",
+          "episodeFileCount": 6,
+          "episodeCount": 6,
+          "totalEpisodeCount": 6,
+          "sizeOnDisk": 10414685822,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": true,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 1993,
+    "path": "/media/USBHDD1/Shows/The X-Files",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 77398,
+    "tvRageId": 6312,
+    "tvMazeId": 430,
+    "firstAired": "1993-09-10T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:56.820061Z",
+    "seriesType": "standard",
+    "cleanTitle": "thexfiles",
+    "imdbId": "tt0106179",
+    "titleSlug": "the-x-files",
+    "certification": "TV-14",
+    "genres": [
+      "Mystery",
+      "Science-Fiction"
+    ],
+    "tags": [],
+    "added": "2016-11-11T04:55:35.419356Z",
+    "ratings": {
+      "votes": 272,
+      "value": 8.9
+    },
+    "qualityProfileId": 3,
+    "id": 66
+  },
+  {
+    "title": "The Mindy Project",
+    "alternateTitles": [],
+    "sortTitle": "mindy project",
+    "seasonCount": 6,
+    "totalEpisodeCount": 110,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Mindy Lahiri can quote every romantic comedy starring Meg Ryan that exists. She loves the good ones and the bad ones, because the girl always gets the guy. Mindy is determined to be more punctual, spend less money, lose weight and read more books – all in pursuit of becoming a well-rounded perfect woman…who can meet and date the perfect guy. Mindy is a skilled OB/GYN and shares a practice with a few other doctors, none of whom make life any easier for her. Jeremy Reed is the walking definition of total bad news. He not only shares a practice with Mindy, but sometimes her bed as well – despite her best efforts to resist. He is funny, self-absorbed and super sexy. In contrast, Danny Castellano is a hothead and guys’ guy who has a habit of stealing Mindy’s patients. As Mindy attempts to get her career off the ground and meet a guy who passes her red flag test, only time will tell if she gets her romantic comedy ending.",
+    "nextAiring": "2017-09-12T04:00:00Z",
+    "network": "Hulu",
+    "airTime": "00:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/68/fanart.jpg?lastWrite=636150378000000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/68/banner.jpg?lastWrite=636150378030000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/68/poster.jpg?lastWrite=636271266760000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 3,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 21,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 26,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 14,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-09-12T04:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2012,
+    "path": "/media/USBHDD1/Shows/The Mindy Project",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 259007,
+    "tvRageId": 31682,
+    "tvMazeId": 75,
+    "firstAired": "2012-09-25T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:38:26.355713Z",
+    "seriesType": "standard",
+    "cleanTitle": "themindyproject",
+    "imdbId": "tt2211129",
+    "titleSlug": "the-mindy-project",
+    "certification": "TV-14",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2016-11-18T03:49:56.019207Z",
+    "ratings": {
+      "votes": 23,
+      "value": 7.8
+    },
+    "qualityProfileId": 3,
+    "id": 68
+  },
+  {
+    "title": "Genius (2017)",
+    "alternateTitles": [
+      {
+        "title": "Genius",
+        "seasonNumber": -1
+      },
+      {
+        "title": "Genius 2017",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "genius 2017",
+    "seasonCount": 1,
+    "totalEpisodeCount": 10,
+    "episodeCount": 9,
+    "episodeFileCount": 9,
+    "sizeOnDisk": 12631945809,
+    "status": "continuing",
+    "overview": "An anthology series about famous geniuses with the first season charting how Einstein – an imaginative, rebellious patent clerk, who couldn’t get a teaching job or a doctorate – unlocked the mysteries of the atom and the universe.",
+    "previousAiring": "2017-06-20T21:00:00Z",
+    "network": "National Geographic (UK)",
+    "airTime": "22:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/74/fanart.jpg?lastWrite=636290915530000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/74/banner.jpg?lastWrite=636348503680000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/74/poster.jpg?lastWrite=636292963050000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-06-20T21:00:00Z",
+          "episodeFileCount": 9,
+          "episodeCount": 9,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 12631945809,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2017,
+    "path": "/media/USBHDD1/Shows/Genius (2017)",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": false,
+    "useSceneNumbering": false,
+    "runtime": 50,
+    "tvdbId": 322399,
+    "tvRageId": 0,
+    "tvMazeId": 16623,
+    "firstAired": "2017-04-23T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:35.936348Z",
+    "seriesType": "standard",
+    "cleanTitle": "genius2017",
+    "imdbId": "tt5673782",
+    "titleSlug": "genius-2017",
+    "genres": [
+      "Drama",
+      "Special Interest"
+    ],
+    "tags": [],
+    "added": "2017-04-29T19:39:10.308527Z",
+    "ratings": {
+      "votes": 14,
+      "value": 9.1
+    },
+    "qualityProfileId": 3,
+    "id": 74
+  },
+  {
+    "title": "Grey's Anatomy",
+    "alternateTitles": [],
+    "sortTitle": "greys anatomy",
+    "seasonCount": 14,
+    "totalEpisodeCount": 297,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Meet Meredith Grey, a brilliant first-year surgical intern at Seattle Grace Hospital. Together with her fellow residents-in-training, Meredith navigates her way through the daily traumas and social land mines of the life inside the hospital and out in the real world. Grey's Anatomy is a smart and witty look at young people struggling to be doctors and doctors struggling to be human.",
+    "nextAiring": "2017-09-29T00:00:00Z",
+    "network": "ABC (US)",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/75/fanart.jpg?lastWrite=636382343250000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/75/banner.jpg?lastWrite=636312857720000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/75/poster.jpg?lastWrite=636335925390000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 5,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 9,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 27,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 25,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 17,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 12,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 13,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 14,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-09-29T00:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2005,
+    "path": "/media/USBHDD1/Shows/Grey's Anatomy",
+    "profileId": 6,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 73762,
+    "tvRageId": 3741,
+    "tvMazeId": 67,
+    "firstAired": "2005-03-27T08:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:38.658468Z",
+    "seriesType": "standard",
+    "cleanTitle": "greysanatomy",
+    "imdbId": "tt0413573",
+    "titleSlug": "greys-anatomy",
+    "certification": "TV-14",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Soap"
+    ],
+    "tags": [],
+    "added": "2017-05-25T05:09:21.279551Z",
+    "ratings": {
+      "votes": 232,
+      "value": 8.2
+    },
+    "qualityProfileId": 6,
+    "id": 75
+  },
+  {
+    "title": "Life (2009)",
+    "alternateTitles": [],
+    "sortTitle": "life 2009",
+    "seasonCount": 1,
+    "totalEpisodeCount": 10,
+    "episodeCount": 7,
+    "episodeFileCount": 7,
+    "sizeOnDisk": 24011215063,
+    "status": "ended",
+    "overview": "\"Life\" is a spectacular new nature documentary series produced by the BBC. Ten chapters filmed in HD pursuing an ambitious goal: to be the definitive exploration of the diversity of the animal world. Throughout the series we will watch all kinds of amazing behaviours that defy our concept of other beings who inhabit this planet. For four years, the multi-Natural History Unit of the BBC has visited all the continents and types of environments in search of the most amazing stories about the continuing struggle for animal survival.",
+    "previousAiring": "2009-12-14T21:00:00Z",
+    "network": "BBC One",
+    "airTime": "21:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/76/fanart.jpg?lastWrite=636316896980000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/76/banner.jpg?lastWrite=636316897000000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/76/poster.jpg?lastWrite=636316897000000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2009-12-14T21:00:00Z",
+          "episodeFileCount": 7,
+          "episodeCount": 7,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 24011215063,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2009,
+    "path": "/media/USBHDD1/Shows/Life (2009)",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 60,
+    "tvdbId": 118421,
+    "tvRageId": 23271,
+    "tvMazeId": 1280,
+    "firstAired": "2009-10-12T07:00:00Z",
+    "lastInfoSync": "2017-07-29T01:35:46.925559Z",
+    "seriesType": "standard",
+    "cleanTitle": "life2009",
+    "imdbId": "tt1533395",
+    "titleSlug": "life-2009",
+    "certification": "TV-G",
+    "genres": [
+      "Documentary"
+    ],
+    "tags": [],
+    "added": "2017-05-29T21:21:34.96964Z",
+    "ratings": {
+      "votes": 55,
+      "value": 9.4
+    },
+    "qualityProfileId": 3,
+    "id": 76
+  },
+  {
+    "title": "Human Planet",
+    "alternateTitles": [],
+    "sortTitle": "human planet",
+    "seasonCount": 1,
+    "totalEpisodeCount": 16,
+    "episodeCount": 8,
+    "episodeFileCount": 8,
+    "sizeOnDisk": 20957371751,
+    "status": "ended",
+    "overview": "Following in the footsteps of Planet Earth and Life, this epic eight-part blockbuster is a breathtaking celebration of the amazing, complex, profound and sometimes challenging relationship between humankind and nature. Humans are the ultimate animals – the most successful species on the planet. From the frozen Arctic to steamy rainforests, from tiny islands in vast oceans to parched deserts, people have found remarkable ways to adapt and survive in the harshest environments imaginable. We’ve done this by harnessing our immense courage and ingenuity; learning to live with and utilise the other creatures that share these wild places. Human Planet weaves together eighty inspiring stories, many never told before on television, set to a globally influenced soundtrack by award-winning composer Nitin Sawhney.\n\nEach episode focuses on a particular habitat and reveals how its people have created astonishing solutions in the face of extreme adversity. Finally we visit the urban jungle, where most of us now live, and discover why the connection between humanity and nature in our cities is the most vital of all.\n\nHuman Planet is brought to you by BBC Earth, creator of 50 years of outstanding natural history content.",
+    "previousAiring": "2011-03-03T20:00:00Z",
+    "network": "BBC One",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/77/fanart.jpg?lastWrite=636316906940000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/77/banner.jpg?lastWrite=636368889390000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/77/poster.jpg?lastWrite=636316906990000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2011-03-03T20:00:00Z",
+          "episodeFileCount": 8,
+          "episodeCount": 8,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 20957371751,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2011,
+    "path": "/media/USBHDD1/Shows/Human Planet",
+    "profileId": 6,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 60,
+    "tvdbId": 180831,
+    "tvRageId": 27134,
+    "tvMazeId": 1654,
+    "firstAired": "2011-01-13T08:00:00Z",
+    "lastInfoSync": "2017-07-29T01:35:38.008839Z",
+    "seriesType": "standard",
+    "cleanTitle": "humanplanet",
+    "imdbId": "tt1806234",
+    "titleSlug": "human-planet",
+    "certification": "TV-G",
+    "genres": [
+      "Documentary"
+    ],
+    "tags": [],
+    "added": "2017-05-29T21:38:09.958199Z",
+    "ratings": {
+      "votes": 20,
+      "value": 8.7
+    },
+    "qualityProfileId": 6,
+    "id": 77
+  },
+  {
+    "title": "The Blue Planet",
+    "alternateTitles": [],
+    "sortTitle": "blue planet",
+    "seasonCount": 1,
+    "totalEpisodeCount": 15,
+    "episodeCount": 8,
+    "episodeFileCount": 8,
+    "sizeOnDisk": 18686060211,
+    "status": "ended",
+    "overview": "The BBC spent five years and $10 million to produce this landmark exploration of the ocean, a world we know less about than the moon. We go further out and deeper down to show you things that have never been seen before. The Blue Planet: Seas of Life reveals the sea and its communities at their most fearsome and alluring. Until now, we've only touched the surface...",
+    "previousAiring": "2001-10-31T00:00:00Z",
+    "network": "BBC One",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/78/fanart.jpg?lastWrite=636316927740000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/78/banner.jpg?lastWrite=636316927760000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/78/poster.jpg?lastWrite=636316927770000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 7,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2001-10-31T00:00:00Z",
+          "episodeFileCount": 8,
+          "episodeCount": 8,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 18686060211,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2001,
+    "path": "/media/USBHDD1/Shows/The Blue Planet",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 50,
+    "tvdbId": 74372,
+    "tvRageId": 2083,
+    "tvMazeId": 7103,
+    "firstAired": "2001-09-12T07:00:00Z",
+    "lastInfoSync": "2017-07-29T01:34:53.997722Z",
+    "seriesType": "standard",
+    "cleanTitle": "theblueplanet",
+    "imdbId": "tt0296310",
+    "titleSlug": "the-blue-planet",
+    "certification": "TV-G",
+    "genres": [
+      "Documentary"
+    ],
+    "tags": [],
+    "added": "2017-05-29T22:12:50.866344Z",
+    "ratings": {
+      "votes": 17,
+      "value": 8.8
+    },
+    "qualityProfileId": 3,
+    "id": 78
+  },
+  {
+    "title": "Battlestar Galactica (2003)",
+    "alternateTitles": [
+      {
+        "title": "Battlestar Galactica",
+        "seasonNumber": -1
+      },
+      {
+        "title": "BSG",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "battlestar galactica 2003",
+    "seasonCount": 4,
+    "totalEpisodeCount": 112,
+    "episodeCount": 3,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "ended",
+    "overview": "In a distant part of the universe, a civilization of humans live on planets known as the Twelve Colonies. In the past, the Colonies have been at war with a cybernetic race known as the Cylons. 40 years after the first war the Cylons launch a devastating attack on the Colonies. The only military ship that survived the attack takes up the task of leading a small fugitive fleet of survivors into space in search of a fabled refuge known as Earth.",
+    "previousAiring": "2005-01-28T05:00:00Z",
+    "network": "SciFi",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/83/fanart.jpg?lastWrite=636364834410000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/83/banner.jpg?lastWrite=636364834460000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/83/poster.jpg?lastWrite=636364834460000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 39,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2005-01-28T05:00:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2003,
+    "path": "/media/USBHDD1/Shows/Battlestar Galactica (2003)",
+    "profileId": 3,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 73545,
+    "tvRageId": 2730,
+    "tvMazeId": 166,
+    "firstAired": "2003-12-08T08:00:00Z",
+    "lastInfoSync": "2017-07-24T08:57:19.363595Z",
+    "seriesType": "standard",
+    "cleanTitle": "battlestargalactica2003",
+    "imdbId": "tt0407362",
+    "titleSlug": "battlestar-galactica-2003",
+    "certification": "TV-14",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Science-Fiction"
+    ],
+    "tags": [],
+    "added": "2017-07-24T08:57:17.747604Z",
+    "ratings": {
+      "votes": 633,
+      "value": 9.3
+    },
+    "qualityProfileId": 3,
+    "id": 83
+  },
+  {
+    "title": "FlashForward",
+    "alternateTitles": [],
+    "sortTitle": "flashforward",
+    "seasonCount": 1,
+    "totalEpisodeCount": 27,
+    "episodeCount": 22,
+    "episodeFileCount": 22,
+    "sizeOnDisk": 19640814080,
+    "status": "ended",
+    "overview": "A mysterious event causes nearly everyone on the planet to simultaneously lose consciousness for 137 seconds, during which people see what appear to be visions of their lives approximately six months in the future - a global \"flashforward.\" A team of Los Angeles FBI agents, led by Stanford Wedeckand spearheaded by Mark Benford and his partner Demetri Noh, begin the process of determining what happened, why, and whether it will happen again. Benford contributes a unique perspective on the investigation; in his flashforward, he saw the results of six months of investigation that he had done on the flashforward event, and he and his team use those clues to recreate the investigation.",
+    "previousAiring": "2010-05-28T00:00:00Z",
+    "network": "ABC (US)",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/84/fanart.jpg?lastWrite=636365560830000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/84/banner.jpg?lastWrite=636365560890000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/84/poster.jpg?lastWrite=636365560890000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 5,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2010-05-28T00:00:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 19640814080,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2009,
+    "path": "/media/USBHDD1/Shows/FlashForward",
+    "profileId": 3,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 84024,
+    "tvRageId": 20798,
+    "tvMazeId": 458,
+    "firstAired": "2009-09-24T07:00:00Z",
+    "lastInfoSync": "2017-07-25T05:08:01.30021Z",
+    "seriesType": "standard",
+    "cleanTitle": "flashforward",
+    "imdbId": "tt1441135",
+    "titleSlug": "flashforward",
+    "certification": "TV-14",
+    "genres": [
+      "Drama",
+      "Science-Fiction"
+    ],
+    "tags": [],
+    "added": "2017-07-25T05:07:59.973855Z",
+    "ratings": {
+      "votes": 206,
+      "value": 8.2
+    },
+    "qualityProfileId": 3,
+    "id": 84
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "alternateTitles": [
+      {
+        "title": "Avatar",
+        "sceneSeasonNumber": -1
+      },
+      {
+        "title": "Avatar – Der Herr der Elemente",
+        "sceneSeasonNumber": -1
+      },
+      {
+        "title": "Avatar",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "avatar last airbender",
+    "seasonCount": 3,
+    "totalEpisodeCount": 62,
+    "episodeCount": 39,
+    "episodeFileCount": 38,
+    "sizeOnDisk": 10715047801,
+    "status": "ended",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "previousAiring": "2008-07-19T16:15:00Z",
+    "network": "Nickelodeon",
+    "airTime": "11:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/105/fanart.jpg?lastWrite=636370370860000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/105/banner.jpg?lastWrite=636370370890000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/105/poster.jpg?lastWrite=636370370890000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 1,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2005-12-02T16:25:00Z",
+          "episodeFileCount": 20,
+          "episodeCount": 20,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 6361894509,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2006-11-17T16:00:00Z",
+          "episodeFileCount": 18,
+          "episodeCount": 18,
+          "totalEpisodeCount": 20,
+          "sizeOnDisk": 4353153292,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2008-07-19T16:15:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 21,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2005,
+    "path": "/media/USBHDD1/Shows/Avatar- The Last Airbender",
+    "profileId": 1,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 74852,
+    "tvRageId": 2680,
+    "tvMazeId": 555,
+    "firstAired": "2005-02-21T08:00:00Z",
+    "lastInfoSync": "2017-07-30T18:44:15.92572Z",
+    "seriesType": "standard",
+    "cleanTitle": "avatarlastairbender",
+    "imdbId": "tt0417299",
+    "titleSlug": "avatar-the-last-airbender",
+    "certification": "TV-Y7",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "tags": [],
+    "added": "2017-07-30T18:44:13.996107Z",
+    "ratings": {
+      "votes": 232,
+      "value": 9.0
+    },
+    "qualityProfileId": 1,
+    "id": 105
+  },
+  {
+    "title": "Telenovela",
+    "alternateTitles": [],
+    "sortTitle": "telenovela",
+    "seasonCount": 1,
+    "totalEpisodeCount": 11,
+    "episodeCount": 11,
+    "episodeFileCount": 11,
+    "sizeOnDisk": 8021706095,
+    "status": "ended",
+    "overview": "If you think the steamy sex, sensational scandals and heart wrenching heartbreak on Latino soap operas are a little extreme, just wait until you see what happens behind the scenes! Eva Longoria stars in this new comedy about Ana Sofia, a sizzling TV superstar, and her lively family of cast and crew all competing to steal the spotlight. When the cameras turn off, the drama turns up as Ana battles pesky network execs, drunken scriptwriters, narcissistic co-stars and an unfortunately familiar new on-screen love interest.",
+    "previousAiring": "2016-02-23T01:30:00Z",
+    "network": "NBC",
+    "airTime": "20:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/123/fanart.jpg?lastWrite=636382463010000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/123/banner.jpg?lastWrite=636382463030000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/123/poster.jpg?lastWrite=636382463030000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-02-23T01:30:00Z",
+          "episodeFileCount": 11,
+          "episodeCount": 11,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 8021706095,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2015,
+    "path": "/media/USBHDD1/Shows/Telenovela",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 295674,
+    "tvRageId": 45269,
+    "tvMazeId": 3079,
+    "firstAired": "2015-12-07T08:00:00Z",
+    "lastInfoSync": "2017-08-13T18:38:20.235917Z",
+    "seriesType": "standard",
+    "cleanTitle": "telenovela",
+    "imdbId": "tt4363588",
+    "titleSlug": "telenovela",
+    "certification": "TV-PG",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2017-08-13T18:38:19.138781Z",
+    "ratings": {
+      "votes": 6,
+      "value": 6.8
+    },
+    "qualityProfileId": 3,
+    "id": 123
+  },
+  {
+    "title": "Gugure! Kokkuri-san",
+    "alternateTitles": [],
+    "sortTitle": "gugure kokkuri san",
+    "seasonCount": 1,
+    "totalEpisodeCount": 12,
+    "episodeCount": 2,
+    "episodeFileCount": 2,
+    "sizeOnDisk": 1027699049,
+    "status": "ended",
+    "overview": "The story revolves around a little girl named Kohina. Kohina ends up summoning a Kokkuri-san, a low-ranking ghost in Japanese folklore. The Kokkuri-san she calls turns out to be a white-haired handsome, young man. At first he had intended to merely haunt her, but soon he becomes worried about her terrible eating habit of cup ramen for every meal. He later decides to haunt her in order to protect her.",
+    "previousAiring": "2014-10-12T16:05:00Z",
+    "network": "TV Tokyo",
+    "airTime": "01:05",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/124/fanart.jpg?lastWrite=636382463470000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/124/banner.jpg?lastWrite=636382463480000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/124/poster.jpg?lastWrite=636382463490000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2014-10-12T16:05:00Z",
+          "episodeFileCount": 2,
+          "episodeCount": 2,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 1027699049,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2014,
+    "path": "/media/USBHDD1/Shows/Gugure! Kokkuri-san",
+    "profileId": 1,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 283933,
+    "tvRageId": 45258,
+    "tvMazeId": 14630,
+    "firstAired": "2014-10-06T07:00:00Z",
+    "lastInfoSync": "2017-08-13T18:39:07.114263Z",
+    "seriesType": "anime",
+    "cleanTitle": "gugurekokkurisan",
+    "imdbId": "tt3957586",
+    "titleSlug": "gugure-kokkuri-san",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Romance"
+    ],
+    "tags": [],
+    "added": "2017-08-13T18:39:05.652661Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0.0
+    },
+    "qualityProfileId": 1,
+    "id": 124
+  },
+  {
+    "title": "Little Witch Academia",
+    "alternateTitles": [
+      {
+        "title": "Little Witch Academia (2017)",
+        "sceneSeasonNumber": -1
+      }
+    ],
+    "sortTitle": "little witch academia",
+    "seasonCount": 1,
+    "totalEpisodeCount": 29,
+    "episodeCount": 5,
+    "episodeFileCount": 5,
+    "sizeOnDisk": 4060900991,
+    "status": "ended",
+    "overview": "Akko Kagari is an ordinary girl who joins the renowned witch academy for witch girls, Luna Nova Academy. When she was younger, she went to Magical Festa, a magic show hosted by a witch named Shiny Chariot. Akko was so mesmerized and inspired by Shiny Chariot's performance that she dreamed to someday be a \"cool\" witch like her. This young and impressionable Akko takes Shiny Chariot's words as her own motto: \"Never forget, a believing heart is your magic.\"",
+    "previousAiring": "2017-02-05T15:00:00Z",
+    "network": "Tokyo MX",
+    "airTime": "00:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/125/fanart.jpg?lastWrite=636382463920000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/125/banner.jpg?lastWrite=636382463950000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/125/poster.jpg?lastWrite=636382463950000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 4,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2017-02-05T15:00:00Z",
+          "episodeFileCount": 5,
+          "episodeCount": 5,
+          "totalEpisodeCount": 25,
+          "sizeOnDisk": 4060900991,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2017,
+    "path": "/media/USBHDD1/Shows/Little Witch Academia",
+    "profileId": 1,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 318161,
+    "tvRageId": 0,
+    "tvMazeId": 21911,
+    "firstAired": "2017-01-08T08:00:00Z",
+    "lastInfoSync": "2017-08-13T18:39:50.213813Z",
+    "seriesType": "anime",
+    "cleanTitle": "littlewitchacademia",
+    "imdbId": "tt6352180",
+    "titleSlug": "little-witch-academia",
+    "certification": "TV-14",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "tags": [],
+    "added": "2017-08-13T18:39:49.10579Z",
+    "ratings": {
+      "votes": 5,
+      "value": 8.2
+    },
+    "qualityProfileId": 1,
+    "id": 125
+  },
+  {
+    "title": "Life in Pieces",
+    "alternateTitles": [],
+    "sortTitle": "life in pieces",
+    "seasonCount": 3,
+    "totalEpisodeCount": 44,
+    "episodeCount": 22,
+    "episodeFileCount": 22,
+    "sizeOnDisk": 15447428982,
+    "status": "continuing",
+    "overview": "Comedy about one big happy family and their sometimes awkward, often hilarious and ultimately beautiful milestone moments as told by its various members.",
+    "nextAiring": "2017-11-03T01:30:00Z",
+    "previousAiring": "2016-04-01T01:55:00Z",
+    "network": "CBS",
+    "airTime": "21:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/126/fanart.jpg?lastWrite=636382465900000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/126/banner.jpg?lastWrite=636382465930000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/126/poster.jpg?lastWrite=636382465930000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-04-01T01:55:00Z",
+          "episodeFileCount": 22,
+          "episodeCount": 22,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 15447428982,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": true,
+        "statistics": {
+          "nextAiring": "2017-11-03T01:30:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 0,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2015,
+    "path": "/media/USBHDD1/Shows/Life in Pieces",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 295778,
+    "tvRageId": 0,
+    "tvMazeId": 2474,
+    "firstAired": "2015-09-21T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:38:22.54873Z",
+    "seriesType": "standard",
+    "cleanTitle": "lifeinpieces",
+    "imdbId": "tt4384086",
+    "titleSlug": "life-in-pieces",
+    "certification": "TV-PG",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2017-08-13T18:43:08.699504Z",
+    "ratings": {
+      "votes": 16,
+      "value": 6.9
+    },
+    "qualityProfileId": 3,
+    "id": 126
+  },
+  {
+    "title": "Barakamon",
+    "alternateTitles": [],
+    "sortTitle": "barakamon",
+    "seasonCount": 1,
+    "totalEpisodeCount": 25,
+    "episodeCount": 4,
+    "episodeFileCount": 4,
+    "sizeOnDisk": 5767199369,
+    "status": "ended",
+    "overview": "As a punishment for punching a famous Calligrapher, young handsome Calligrapher Handa Seishu is exiled on a small island. As someone who has never lived outside of a city, Handa has to adapt to his new wacky neighbors, like people traveling on a tractor, unwanted visitors who never use the front door, annoying kids using his home as a playground, etc. Can this city guy handle all the crazy hardships? Find out in this wacky island comedy full of innocence and laughter!!!",
+    "previousAiring": "2014-07-26T17:20:00Z",
+    "network": "NTV (JP)",
+    "airTime": "02:20",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/127/fanart.jpg?lastWrite=636382467150000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/127/banner.jpg?lastWrite=636382467180000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/127/poster.jpg?lastWrite=636382467180000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2014-07-26T17:20:00Z",
+          "episodeFileCount": 4,
+          "episodeCount": 4,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 5767199369,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2014,
+    "path": "/media/USBHDD1/Shows/Barakamon",
+    "profileId": 1,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 281270,
+    "tvRageId": 43079,
+    "tvMazeId": 7906,
+    "firstAired": "2014-07-06T07:00:00Z",
+    "lastInfoSync": "2017-08-13T18:49:31.633868Z",
+    "seriesType": "anime",
+    "cleanTitle": "barakamon",
+    "imdbId": "tt3660104",
+    "titleSlug": "barakamon",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2017-08-13T18:45:10.204916Z",
+    "ratings": {
+      "votes": 106,
+      "value": 8.4
+    },
+    "qualityProfileId": 1,
+    "id": 127
+  },
+  {
+    "title": "It's Always Sunny in Philadelphia",
+    "alternateTitles": [],
+    "sortTitle": "its always sunny in philadelphia",
+    "seasonCount": 12,
+    "totalEpisodeCount": 133,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Four egocentric friends who run a neighborhood Irish pub in Philadelphia try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
+    "network": "FXX",
+    "airTime": "22:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/129/fanart.jpg?lastWrite=636383738160000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/129/banner.jpg?lastWrite=636383738190000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/129/poster.jpg?lastWrite=636383738190000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 7,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 15,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 10,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 11,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 12,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2005,
+    "path": "/media/USBHDD1/Shows/It's Always Sunny in Philadelphia",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 75805,
+    "tvRageId": 4004,
+    "tvMazeId": 347,
+    "firstAired": "2005-08-04T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:51.787397Z",
+    "seriesType": "standard",
+    "cleanTitle": "itsalwayssunnyinphiladelphia",
+    "imdbId": "tt0472954",
+    "titleSlug": "its-always-sunny-in-philadelphia",
+    "certification": "TV-MA",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2017-08-15T06:03:29.59402Z",
+    "ratings": {
+      "votes": 204,
+      "value": 9.1
+    },
+    "qualityProfileId": 3,
+    "id": 129
+  },
+  {
+    "title": "Veep",
+    "alternateTitles": [],
+    "sortTitle": "veep",
+    "seasonCount": 6,
+    "totalEpisodeCount": 58,
+    "episodeCount": 2,
+    "episodeFileCount": 2,
+    "sizeOnDisk": 3127849397,
+    "status": "continuing",
+    "overview": "A look into American politics, revolving around former Senator Selina Meyer who finds being Vice President of the United States is nothing like she expected and everything everyone ever warned her about.",
+    "previousAiring": "2012-04-30T02:30:00Z",
+    "network": "HBO",
+    "airTime": "22:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/130/fanart.jpg?lastWrite=636383739540000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/130/banner.jpg?lastWrite=636383739560000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/130/poster.jpg?lastWrite=636383739560000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2012-04-30T02:30:00Z",
+          "episodeFileCount": 2,
+          "episodeCount": 2,
+          "totalEpisodeCount": 8,
+          "sizeOnDisk": 3127849397,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 10,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2012,
+    "path": "/media/USBHDD1/Shows/Veep",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 30,
+    "tvdbId": 237831,
+    "tvRageId": 28149,
+    "tvMazeId": 142,
+    "firstAired": "2012-04-22T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:39:49.626844Z",
+    "seriesType": "standard",
+    "cleanTitle": "veep",
+    "imdbId": "tt1759761",
+    "titleSlug": "veep",
+    "certification": "TV-MA",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2017-08-15T06:05:28.274115Z",
+    "ratings": {
+      "votes": 49,
+      "value": 8.4
+    },
+    "qualityProfileId": 3,
+    "id": 130
+  },
+  {
+    "title": "Suburgatory",
+    "alternateTitles": [],
+    "sortTitle": "suburgatory",
+    "seasonCount": 3,
+    "totalEpisodeCount": 57,
+    "episodeCount": 1,
+    "episodeFileCount": 1,
+    "sizeOnDisk": 703668116,
+    "status": "ended",
+    "overview": "Single father George only wants the best for his 16-year-old daughter, Tessa. So when he finds a box of condoms on her nightstand, he moves them out of their apartment in New York City to a house in the suburbs. But all Tessa sees is the horror of over-manicured lawns and plastic Franken-moms. Being in the 'burbs can be hell, but it also may just bring Tessa and George closer than they've ever been.",
+    "previousAiring": "2011-09-29T00:30:00Z",
+    "network": "ABC (US)",
+    "airTime": "20:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/131/fanart.jpg?lastWrite=636383769000000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/131/banner.jpg?lastWrite=636383769020000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/131/poster.jpg?lastWrite=636383769030000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2011-09-29T00:30:00Z",
+          "episodeFileCount": 1,
+          "episodeCount": 1,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 703668116,
+          "percentOfEpisodes": 100.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 22,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2011,
+    "path": "/media/USBHDD1/Shows/Suburgatory",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 248842,
+    "tvRageId": 28399,
+    "tvMazeId": 811,
+    "firstAired": "2011-09-28T07:00:00Z",
+    "lastInfoSync": "2017-08-15T06:54:58.97157Z",
+    "seriesType": "standard",
+    "cleanTitle": "suburgatory",
+    "imdbId": "tt1741256",
+    "titleSlug": "suburgatory",
+    "certification": "TV-PG",
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [],
+    "added": "2017-08-15T06:54:57.647824Z",
+    "ratings": {
+      "votes": 45,
+      "value": 8.1
+    },
+    "qualityProfileId": 3,
+    "id": 131
+  },
+  {
+    "title": "Natsume's Book of Friends",
+    "alternateTitles": [
+      {
+        "title": "Natsume Yuujinchou",
+        "sceneSeasonNumber": 1
+      },
+      {
+        "title": "Zoku Natsume Yuujinchou",
+        "sceneSeasonNumber": 2
+      },
+      {
+        "title": "Natsume Yuujinchou San",
+        "sceneSeasonNumber": 3
+      },
+      {
+        "title": "Natsume Yuujinchou Shi",
+        "sceneSeasonNumber": 4
+      },
+      {
+        "title": "Natsume Yuujinchou Go",
+        "sceneSeasonNumber": 5
+      },
+      {
+        "title": "Natsume Yuujinchou Roku",
+        "sceneSeasonNumber": 6
+      }
+    ],
+    "sortTitle": "natsumes book friends",
+    "seasonCount": 6,
+    "totalEpisodeCount": 78,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "ended",
+    "overview": "Natsume Takashi has the ability to see spirits, which he has long kept secret. However, once he inherits a strange book that belonged to his deceased grandmother, Reiko, he discovers the reason why spirits surround him. Containing the names of these spirits, a binding contract was formed between the spirits and the owner of the book. Now, Natsume is determined to free the spirits and dissolve the contracts. With the help of a spirit cat, his days are filled trying to return the names to these spirits.",
+    "network": "TV Tokyo",
+    "airTime": "01:35",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/132/fanart.jpg?lastWrite=636384053660000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/132/banner.jpg?lastWrite=636384053690000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/132/poster.jpg?lastWrite=636384053690000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 4,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 11,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2008,
+    "path": "/media/USBHDD1/Shows/Natsume's Book of Friends",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": true,
+    "runtime": 25,
+    "tvdbId": 82788,
+    "tvRageId": 0,
+    "tvMazeId": 12310,
+    "firstAired": "2008-07-08T07:00:00Z",
+    "lastInfoSync": "2017-08-15T14:49:24.116068Z",
+    "seriesType": "anime",
+    "cleanTitle": "natsumesbookfriends",
+    "imdbId": "tt1352421",
+    "titleSlug": "natsumes-book-of-friends",
+    "certification": "TV-G",
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "tags": [],
+    "added": "2017-08-15T14:49:22.295107Z",
+    "ratings": {
+      "votes": 17,
+      "value": 9.5
+    },
+    "qualityProfileId": 1,
+    "id": 132
+  },
+  {
+    "title": "Poco's Udon World",
+    "alternateTitles": [
+      {
+        "title": "Udon no Kuni no Kiniro Kemari",
+        "sceneSeasonNumber": -1
+      }
+    ],
+    "sortTitle": "pocos udon world",
+    "seasonCount": 1,
+    "totalEpisodeCount": 12,
+    "episodeCount": 1,
+    "episodeFileCount": 1,
+    "sizeOnDisk": 549169927,
+    "status": "ended",
+    "overview": "Souta Tawara is a web designer working in Tokyo. When he visits his family's Udon place in his hometown Kagawa Prefecture, he discovers a young boy. Upon confronting the boy, Souta soon learns his secret and decides to quit his job in order to take care of the boy, Poko. The daily adventures of the two slowly enfold as Poco energetically navigates his way through Kagawa, the \"Udon Kingdom,\" along with Souta.",
+    "previousAiring": "2016-10-08T16:55:00Z",
+    "network": "NTV (JP)",
+    "airTime": "01:55",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/133/fanart.jpg?lastWrite=636384053840000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/133/banner.jpg?lastWrite=636384053850000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/133/poster.jpg?lastWrite=636384053850000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-10-08T16:55:00Z",
+          "episodeFileCount": 1,
+          "episodeCount": 1,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 549169927,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2016,
+    "path": "/media/USBHDD1/Shows/Poco's Udon World",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 20,
+    "tvdbId": 315094,
+    "tvRageId": 0,
+    "tvMazeId": 20113,
+    "firstAired": "2016-10-09T07:00:00Z",
+    "lastInfoSync": "2017-08-15T14:49:43.144634Z",
+    "seriesType": "anime",
+    "cleanTitle": "pocosudonworld",
+    "imdbId": "tt6344982",
+    "titleSlug": "pocos-udon-world",
+    "genres": [
+      "Animation"
+    ],
+    "tags": [],
+    "added": "2017-08-15T14:49:41.970762Z",
+    "ratings": {
+      "votes": 3,
+      "value": 7.7
+    },
+    "qualityProfileId": 1,
+    "id": 133
+  },
+  {
+    "title": "Adventure Time",
+    "alternateTitles": [
+      {
+        "title": "Adventure Time With Finn and Jake",
+        "seasonNumber": -1
+      }
+    ],
+    "sortTitle": "adventure time",
+    "seasonCount": 9,
+    "totalEpisodeCount": 278,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "continuing",
+    "overview": "Adventure Time follows two best friends: Finn (a 12-year old boy) and Jake (a wise 28-year-old dog with magical powers), and the surreal adventures undertaken by the duo as they traverse the mystical Land of Ooo. A world built for adventure, Ooo is filled to the brim with various landscapes for the two buddies to explore and bizarre characters to assist.",
+    "network": "Cartoon Network",
+    "airTime": "19:45",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/134/fanart.jpg?lastWrite=636384055810000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/134/banner.jpg?lastWrite=636384055840000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/134/poster.jpg?lastWrite=636384055840000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 26,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 26,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 3,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 26,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 4,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 26,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 5,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 52,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 6,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 43,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 7,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 39,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 8,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 14,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 9,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 14,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2010,
+    "path": "/media/USBHDD1/Shows/Adventure Time",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 11,
+    "tvdbId": 152831,
+    "tvRageId": 23369,
+    "tvMazeId": 290,
+    "firstAired": "2010-04-05T07:00:00Z",
+    "lastInfoSync": "2017-08-16T15:37:02.495559Z",
+    "seriesType": "anime",
+    "cleanTitle": "adventuretime",
+    "imdbId": "tt1305826",
+    "titleSlug": "adventure-time",
+    "certification": "TV-PG",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Family"
+    ],
+    "tags": [],
+    "added": "2017-08-15T14:52:57.876503Z",
+    "ratings": {
+      "votes": 129,
+      "value": 9.6
+    },
+    "qualityProfileId": 1,
+    "id": 134
+  },
+  {
+    "title": "Mob Psycho 100",
+    "alternateTitles": [],
+    "sortTitle": "mob psycho 100",
+    "seasonCount": 1,
+    "totalEpisodeCount": 12,
+    "episodeCount": 1,
+    "episodeFileCount": 1,
+    "sizeOnDisk": 580124969,
+    "status": "ended",
+    "overview": "Kageyama Shigeo (a.k.a. \"Mob\") is a 8th grader with psychic abilities. He could bend spoons and lift objects with his mind from a young age, but he slowly began to withhold from using his abilities in public due to the negative attention he kept receiving. Now, the only thing he wants is to become friends with a girl in his class, Tsubomi. With his psychic \"mentor\" (who has no psychic powers), he continues his daily life, attempting to realize his purpose in life.",
+    "previousAiring": "2016-07-11T15:00:00Z",
+    "network": "Tokyo MX",
+    "airTime": "00:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/135/fanart.jpg?lastWrite=636384059710000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/135/banner.jpg?lastWrite=636384059730000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/135/poster.jpg?lastWrite=636384059730000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "previousAiring": "2016-07-11T15:00:00Z",
+          "episodeFileCount": 1,
+          "episodeCount": 1,
+          "totalEpisodeCount": 12,
+          "sizeOnDisk": 580124969,
+          "percentOfEpisodes": 100.0
+        }
+      }
+    ],
+    "year": 2016,
+    "path": "/media/USBHDD1/Shows/Mob Psycho 100",
+    "profileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 25,
+    "tvdbId": 307375,
+    "tvRageId": 0,
+    "tvMazeId": 18260,
+    "firstAired": "2016-07-12T07:00:00Z",
+    "lastInfoSync": "2017-08-15T14:59:30.88599Z",
+    "seriesType": "anime",
+    "cleanTitle": "mobpsycho100",
+    "imdbId": "tt5897304",
+    "titleSlug": "mob-psycho-100",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "tags": [],
+    "added": "2017-08-15T14:59:28.404191Z",
+    "ratings": {
+      "votes": 5,
+      "value": 8.8
+    },
+    "qualityProfileId": 1,
+    "id": 135
+  },
+  {
+    "title": "Scarlet Heart",
+    "alternateTitles": [],
+    "sortTitle": "scarlet heart",
+    "seasonCount": 2,
+    "totalEpisodeCount": 81,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "ended",
+    "overview": "Zhang Xiao (Liu Shi Shi), a Chinese young woman from the 21st century, accidentally travels back in time to the Qing Dynasty period during the reign of Kangxi Emperor after experiencing a deadly combination of traffic collision and electrocution, resulting her somehow reliving the life of one of her previous incarnations and forcing her to assumes the identity belongs to her past: Maertai Rouxi (Liu Shi Shi), the teenage daughter of a Manchu nobleman, who also had a near-fatal incident in her own time which Zhang awakes from.\n\nIn the second season an unfortunate car accident caused Zhang Xiao to dream about her unforgettable love with “Fourth Prince”. One fateful day, she meets a man who looks just like the “Fourth Prince” in her dreams. He is Yin Zheng, the stepson of Zhen Tian Corporation’s chairman. To find out what his relationship is to “Fourth Prince”, she finds work as a designer at Zhen Tian. Like any other ordinary newcomer to the business industry, Zhang Xiao is ostracised by her fellow colleagues. Luckily, her superior Yin Zheng sees her as a talented worker and helps her avoid difficult situations. However, fate plays with her again. Just as she’s about to solve this mysterious riddle, an accident occurs, causing Zhang Xiao to lose her memory. Now with no more worries, Zhang Xiao works diligently at Zheng Tian. She gets to know Lan Lan, Yin Zheng’s supermodel girlfriend who looks just like her. Slowly, Yin Zheng and Zhang Xiao develop unspoken feelings for each other, but before it can progress any further, a gentle and considerate Kang Si Han enter's Zhang Xiao's world. It turns out that Yin Zheng, Kang Si Han, and Kang Si Yu are all potential successors of Zhen Tian Corporation. Zhang Xiao suddenly finds herself in the center of a power struggle.",
+    "network": "Hunan TV",
+    "airTime": "07:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/136/fanart.jpg?lastWrite=636384656560000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/136/banner.jpg?lastWrite=636384656590000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/136/poster.jpg?lastWrite=636384656590000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 40,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 41,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2011,
+    "path": "/media/USBHDD1/Shows/Scarlet Heart",
+    "profileId": 3,
+    "seasonFolder": false,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 252478,
+    "tvRageId": 0,
+    "tvMazeId": 15800,
+    "firstAired": "2011-09-10T07:00:00Z",
+    "lastInfoSync": "2017-08-16T07:34:15.255388Z",
+    "seriesType": "standard",
+    "cleanTitle": "scarletheart",
+    "imdbId": "tt2475848",
+    "titleSlug": "scarlet-heart",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tags": [],
+    "added": "2017-08-16T07:34:13.789008Z",
+    "ratings": {
+      "votes": 1,
+      "value": 10.0
+    },
+    "qualityProfileId": 3,
+    "id": 136
+  },
+  {
+    "title": "Empresses In The Palace",
+    "alternateTitles": [],
+    "sortTitle": "empresses in palace",
+    "seasonCount": 1,
+    "totalEpisodeCount": 76,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "ended",
+    "overview": "It tells the story of one of Emperor Yongzheng's concubines, Zhen Huan, who's the mother of Prince Hongli (the famous Emperor Qianlong).This drama, adapted from popular Internet novel of the same name, will tell the story of the heroine, Zhen Huan (Sun Li), who joined the palace harem with her sister. She was selected to be Emperor Yongzheng's (Chen Jian Bin) concubine. When Zhen Huan first enters the palace, she is innocent and gullible, but gradually learnd the hard way to fend for herself when she inadvertently becomes caught up in the schemes between the Empress (Ada Choi) and Concubine Hua (Jiang Xin). Through cunning and deceit, Zhen Huan finally succeeds in becoming Empress. However, she arouses Emperor Yongzheng's suspicion about her loyalty and is forced to poison her true love, 17th Prince. Finally, when Emperor Yongzheng dies and Hong Li ascends the throne, Concubine Zhen Huan becomes Empress Dowager. Though her future seems bright, she lives the rest of her life in sadness and guilt.",
+    "network": "Dragon TV",
+    "airTime": "20:00",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/137/fanart.jpg?lastWrite=636384658150000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/137/banner.jpg?lastWrite=636384658160000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/137/poster.jpg?lastWrite=636384658160000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 76,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2011,
+    "path": "/media/USBHDD1/Shows/Empresses In The Palace",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 257938,
+    "tvRageId": 0,
+    "tvMazeId": 3339,
+    "firstAired": "2011-11-17T08:00:00Z",
+    "lastInfoSync": "2017-08-16T07:36:54.178136Z",
+    "seriesType": "standard",
+    "cleanTitle": "empressesinpalace",
+    "imdbId": "tt2374683",
+    "titleSlug": "empresses-in-the-palace",
+    "certification": "TV-PG",
+    "genres": [
+      "Drama"
+    ],
+    "tags": [],
+    "added": "2017-08-16T07:36:52.960972Z",
+    "ratings": {
+      "votes": 4,
+      "value": 9.5
+    },
+    "qualityProfileId": 3,
+    "id": 137
+  },
+  {
+    "title": "Eternal Love",
+    "alternateTitles": [],
+    "sortTitle": "eternal love",
+    "seasonCount": 1,
+    "totalEpisodeCount": 58,
+    "episodeCount": 0,
+    "episodeFileCount": 0,
+    "sizeOnDisk": 0,
+    "status": "ended",
+    "overview": "Three hundred years ago, Bai Qian stood on the Zhu Xian Terrace, turned around and jumped off without regret. Ye Hua stood by the bronze mirror to witness with his own eyes her death. Three hundred years later, in the East Sea Dragon Palace, the two meet unexpectedly. Another lifetime another world, after suffering betrayal Bai Qian no longer feels anything, yet she can't seem to comprehend Ye Hua's actions. Three lives three worlds, her and him, are they fated to love again?",
+    "network": "Dragon TV",
+    "airTime": "19:30",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/138/fanart.jpg?lastWrite=636384660620000000"
+      },
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/138/banner.jpg?lastWrite=636384660640000000"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/138/poster.jpg?lastWrite=636384660650000000"
+      }
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 58,
+          "sizeOnDisk": 0,
+          "percentOfEpisodes": 0.0
+        }
+      }
+    ],
+    "year": 2017,
+    "path": "/media/USBHDD1/Shows/Eternal Love",
+    "profileId": 3,
+    "seasonFolder": true,
+    "monitored": true,
+    "useSceneNumbering": false,
+    "runtime": 45,
+    "tvdbId": 321862,
+    "tvRageId": 0,
+    "tvMazeId": 25125,
+    "firstAired": "2017-01-30T08:00:00Z",
+    "lastInfoSync": "2017-08-16T07:41:01.356189Z",
+    "seriesType": "standard",
+    "cleanTitle": "eternallove",
+    "imdbId": "tt6488862",
+    "titleSlug": "eternal-love",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tags": [],
+    "added": "2017-08-16T07:41:00.001055Z",
+    "ratings": {
+      "votes": 2,
+      "value": 10.0
+    },
+    "qualityProfileId": 3,
+    "id": 138
+  }
+]

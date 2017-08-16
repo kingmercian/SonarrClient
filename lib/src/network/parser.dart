@@ -182,16 +182,16 @@ List<Drive> parseDrives(String json) {
 
 Drive parseDrive(Map map) {
   return new Drive()
-      ..path = map["path"]
-      ..label = map["label"]
-      ..freeSpace = _getSize(map["freeSpace"])
-      ..totalSpace = _getSize(map["totalSpace"]);
+    ..path = map["path"]
+    ..label = map["label"]
+    ..freeSpace = _getSize(map["freeSpace"])
+    ..totalSpace = _getSize(map["totalSpace"]);
 }
 
 HealthMessage parseHealthMessage(Map map) {
   return new HealthMessage()
-      ..type = map["type"]
-      ..message = map["message"];
+    ..type = map["type"]
+    ..message = map["message"];
 }
 
 List<Release> parseReleases(String json) {
@@ -270,6 +270,33 @@ Page<HistoryRecord> parseHistoryPage(String json) {
   return result;
 }
 
+Page<BlacklistedRelease> parseBlacklistPage(String json, Map<int, Show> shows) {
+  Map map = JSON.decode(json);
+  Page<BlacklistedRelease> result = new Page()
+    ..page = map["page"]
+    ..pageSize = map["pageSize"]
+    ..totalRecords = map["totalRecords"];
+
+  map["records"]
+      .forEach((it) => result.records.add(parseBlacklistedRecord(it, shows)));
+  return result;
+}
+
+BlacklistedRelease parseBlacklistedRecord(Map map, Map<int, Show> shows) {
+  String showTitle = "Unknown";
+
+  if (shows.containsKey(map["seriesId"])) {
+    showTitle = shows[map["seriesId"]].title;
+  }
+
+  return new BlacklistedRelease()
+    ..id = map["id"]
+    ..releaseTitle = map["sourceTitle"]
+    ..showTitle = showTitle
+    ..quality = map["quality"]["quality"]["name"]
+    ..date = DateTime.parse(map["date"]);
+}
+
 HistoryRecord parseHistoryRecord(Map map) {
   return new HistoryRecord()
     ..episodeTitle = map["episode"]["title"]
@@ -305,8 +332,8 @@ List<Rename> parseRenamingPreviews(String json) {
 
 Rename parseRenamingPreview(Map map) {
   return new Rename()
-      ..fileId = map["episodeFileId"]
-      ..seasonNumber = map["seasonNumber"]
-      ..currentPath = map["existingPath"]
-      ..newPath = map["newPath"];
+    ..fileId = map["episodeFileId"]
+    ..seasonNumber = map["seasonNumber"]
+    ..currentPath = map["existingPath"]
+    ..newPath = map["newPath"];
 }
