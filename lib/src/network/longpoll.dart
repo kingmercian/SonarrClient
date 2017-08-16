@@ -15,7 +15,7 @@ class Longpoll {
   int _id = 0;
 
   Longpoll(this._server) {
-    _httpClient.badCertificateCallback = (_, __, ___) => true;
+    _httpClient.badCertificateCallback = (_, __, ___) => _server.selfSignedCerts;
   }
 
   Future<SubmarineResponse> _get(String path) async {

@@ -11,7 +11,7 @@ class Sonarr {
   HttpClient _httpClient = new HttpClient();
 
   Sonarr(this._server) {
-    _httpClient.badCertificateCallback = (_, __, ___) => true;
+    _httpClient.badCertificateCallback = (_, __, ___) => _server.selfSignedCerts;
   }
 
   _addHeader(HttpClientRequest request) {
@@ -20,7 +20,7 @@ class Sonarr {
 
   _addContentType(HttpClientRequest request) {
     request.headers.contentType =
-    new ContentType("application", "json", charset: "utf-8");
+        new ContentType("application", "json", charset: "utf-8");
   }
 
   // Internal
@@ -116,6 +116,8 @@ class Sonarr {
       return response.body;
     } on SocketException catch (_) {
       throw new CantConnectException();
+    } on HandshakeException catch (_) {
+      throw new SSLUnsupportedException();
     }
   }
 

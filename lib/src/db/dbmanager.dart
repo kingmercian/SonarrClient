@@ -38,6 +38,7 @@ class DBManager {
   addServer(Server server) async {
     var modelServer = new ServerModel()
       ..https = server.https
+      ..selfSignedCerts = server.selfSignedCerts
       ..hostname = server.hostname
       ..port = server.port
       ..path = server.path
@@ -65,6 +66,7 @@ class DBManager {
 
     return new Server()
       ..https = serverModel.https
+      ..selfSignedCerts = serverModel.selfSignedCerts
       ..hostname = serverModel.hostname
       ..port = serverModel.port
       ..path = serverModel.path

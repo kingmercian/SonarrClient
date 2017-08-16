@@ -7,6 +7,10 @@ import '../../db/dbmanager.dart';
 import 'home.dart';
 
 class AddServer extends StatefulWidget {
+  bool forcingUpdate;
+
+  AddServer({this.forcingUpdate: false});
+
   @override
   _AddServerState createState() => new _AddServerState();
 }
@@ -19,6 +23,7 @@ class _AddServerState extends State<AddServer> {
   final GlobalKey<FormState> _formKey = new GlobalKey<FormState>();
 
   bool _https = false;
+  bool _selfSignedCerts = false;
   bool _loading = false;
   var _server;
   bool _hasServer = false;
@@ -39,6 +44,8 @@ class _AddServerState extends State<AddServer> {
       _portController.text = "${server.port}";
       _pathController.text = server.path;
       _keyController.text = server.apiKey;
+      _selfSignedCerts =
+          (server.selfSignedCerts != null) ? server.selfSignedCerts : false;
 
       setState(() => _https = server.https);
     }
@@ -55,6 +62,7 @@ class _AddServerState extends State<AddServer> {
   _addServer() async {
     _server = new Server()
       ..https = _https
+      ..selfSignedCerts = _selfSignedCerts
       ..hostname = _serverController.text
       ..path = _pathController.text
       ..port = int.parse(_portController.text)
@@ -74,7 +82,7 @@ class _AddServerState extends State<AddServer> {
 
       DBManager.getInstance().addServer(_server);
 
-      if (_hasServer) {
+      if (_hasServer && !widget.forcingUpdate) {
         Navigator.pop(context);
       } else {
         Navigator.pushReplacement(
@@ -83,14 +91,15 @@ class _AddServerState extends State<AddServer> {
                 builder: (BuildContext context) => new Home()));
       }
     } on InvalidApiKeyException catch (_) {
-      _scaffoldKey.currentState.showSnackBar(new SnackBar(
-          content: new Text("Invalid API Key."),
-          backgroundColor: Colors.redAccent));
+      _showErrorBanner("Invalid API Key");
     } on CantConnectException catch (_) {
-      _scaffoldKey.currentState.showSnackBar(new SnackBar(
-          content: new Text(
-              "Can't connect to the server, please check the configuration and try again."),
-          backgroundColor: Colors.redAccent));
+      _showErrorBanner(
+          "Can't connect to the server, please check the configuration "
+          "and try again");
+    } on SSLUnsupportedException catch (_) {
+      _showErrorBanner(
+          "The server doesn't support SSL in the given port. Disable https "
+          "or use a different port");
     }
 
     if (mounted) {
@@ -98,6 +107,13 @@ class _AddServerState extends State<AddServer> {
         _loading = false;
       });
     }
+  }
+
+  _showErrorBanner(String msg) {
+    _scaffoldKey.currentState.showSnackBar(new SnackBar(
+        duration: new Duration(seconds: 6),
+        content: new Text(msg),
+        backgroundColor: Colors.redAccent));
   }
 
   String _validatePort(String value) {
@@ -137,60 +153,90 @@ class _AddServerState extends State<AddServer> {
     Text title =
         _hasServer ? const Text("Edit Connection") : const Text("Add Server");
 
+    Row https = new Row(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: <Widget>[
+        new Text("Use https"),
+        new Align(
+          alignment: FractionalOffset.centerRight,
+          child: new Switch(
+              value: _https,
+              onChanged: (bool https) => setState(() {
+                    _https = https;
+                  })),
+        ),
+      ],
+    );
+
+    TextFormField hostname = new TextFormField(
+      controller: _serverController,
+      autofocus: true,
+      decoration: new InputDecoration(
+        hintText: "IP or hostname of the server",
+        labelText: "Server",
+      ),
+      validator: _validateServer,
+    );
+
+    TextFormField port = new TextFormField(
+      controller: _portController,
+      keyboardType: TextInputType.number,
+      decoration: new InputDecoration(
+        hintText: "Port to be used",
+        labelText: "Port",
+      ),
+      validator: _validatePort,
+    );
+
+    TextFormField path = new TextFormField(
+      controller: _pathController,
+      decoration: new InputDecoration(
+        hintText: "Path",
+        labelText: "Path",
+      ),
+    );
+
+    TextFormField apiKey = new TextFormField(
+      controller: _keyController,
+      decoration: new InputDecoration(
+        hintText: "API Key to connect",
+        labelText: "Key",
+      ),
+    );
+
+    List<Widget> fields = [https];
+
+    if (_https) {
+      fields.add(new Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: <Widget>[
+          new Text("Allow self-signed certificates"),
+          new Align(
+            alignment: FractionalOffset.centerRight,
+            child: new Switch(
+                value: _selfSignedCerts,
+                onChanged: (bool allow) => setState(() {
+                      _selfSignedCerts = allow;
+                    })),
+          ),
+        ],
+      ));
+    }
+
+    fields.addAll([
+      hostname,
+      port,
+      path,
+      apiKey,
+      action,
+    ]);
+
     var form = new Container(
-      margin: const EdgeInsets.all(24.0),
+      margin: const EdgeInsets.only(top: 24.0, left: 24.0, right: 24.0),
       child: new Form(
           key: _formKey,
           child: new Column(
-            children: <Widget>[
-              new Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: <Widget>[
-                  new Text("Use https"),
-                  new Align(
-                    alignment: FractionalOffset.centerRight,
-                    child: new Switch(
-                        value: _https,
-                        onChanged: (bool https) => setState(() {
-                              _https = https;
-                            })),
-                  ),
-                ],
-              ),
-              new TextFormField(
-                controller: _serverController,
-                autofocus: true,
-                decoration: new InputDecoration(
-                  hintText: "IP or hostname of the server",
-                  labelText: "Server",
-                ),
-                validator: _validateServer,
-              ),
-              new TextFormField(
-                controller: _portController,
-                keyboardType: TextInputType.number,
-                decoration: new InputDecoration(
-                  hintText: "Port to be used",
-                  labelText: "Port",
-                ),
-                validator: _validatePort,
-              ),
-              new TextFormField(
-                controller: _pathController,
-                decoration: new InputDecoration(
-                  hintText: "Path",
-                  labelText: "Path",
-                ),
-              ),
-              new TextFormField(
-                controller: _keyController,
-                decoration: new InputDecoration(
-                  hintText: "API Key to connect",
-                  labelText: "Key",
-                ),
-              ),
-              action,
-            ],
+            children: fields,
           )),
     );
 
