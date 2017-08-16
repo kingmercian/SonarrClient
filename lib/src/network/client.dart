@@ -21,7 +21,7 @@ class Client {
   static Client getInstance() {
     return _INSTANCE;
   }
-
+  
   static Future prepare({forceReload: false, DBManager dbManager}) async {
     if (_INSTANCE != null && !forceReload) return _INSTANCE;
 
@@ -296,5 +296,11 @@ class InvalidApiKeyException implements Exception {
 class CantConnectException implements Exception {
   String toString() {
     return "Can't connect to the server";
+  }
+}
+
+class SSLUnsupportedException implements Exception {
+  String toString() {
+    return "SSL isn't supported in the server for the given port";
   }
 }

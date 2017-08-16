@@ -22,9 +22,18 @@ class _SubmarineState extends State<MyApp> {
 
   _checkIfServerAvailable() async {
     await DBManager.prepare();
-    var hasServer = await DBManager.getInstance().hasServer();
+    bool hasServer = await DBManager.getInstance().hasServer();
+    bool missingSelfCertConfig = false;
+
+    if (hasServer) {
+      var server = await DBManager.getInstance().getServer();
+      missingSelfCertConfig = server.selfSignedCerts == null;
+    }
+
     setState(() {
-      _home = hasServer ? new Home() : new AddServer();
+      _home = hasServer && !missingSelfCertConfig
+          ? new Home()
+          : new AddServer(forcingUpdate: missingSelfCertConfig);
     });
   }
 

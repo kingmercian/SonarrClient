@@ -99,6 +99,7 @@ class Drive {
 
 class ServerModel {
   bool https;
+  bool selfSignedCerts;
   String hostname;
   String path = "";
   int port;
@@ -109,6 +110,7 @@ class ServerModel {
   Map<String, dynamic> toMap() {
     return {
       'https': https,
+      'selfSignedCerts': selfSignedCerts,
       'hostname': hostname,
       'path': path,
       'port': port,
@@ -118,6 +120,7 @@ class ServerModel {
 
   ServerModel.fromMap(Map<String, dynamic> map)
       : https = map["https"],
+        selfSignedCerts = map["selfSignedCerts"],
         hostname = map["hostname"],
         path = map["path"],
         port = map["port"],
