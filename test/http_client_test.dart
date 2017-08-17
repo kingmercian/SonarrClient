@@ -4,7 +4,7 @@ import 'package:Submarine/src/network/network.dart';
 import 'package:Submarine/src/db/dbmanager.dart';
 import 'package:Submarine/src/model/model.dart';
 import 'package:mockito/mockito.dart';
-import 'mockserver/mock_server.dart';
+import 'package:mock_web_server/mock_web_server.dart';
 import 'dart:io';
 
 class MockDBManager extends Mock implements DBManager {}
@@ -12,25 +12,21 @@ class MockDBManager extends Mock implements DBManager {}
 enum ServerType { NON_EXISTING, MOCK }
 
 var dbManager = new MockDBManager();
-MockServer _server;
+
+MockWebServer _server;
 
 main() async {
-  _server = new MockServer(8081);
-  _server.start();
 
-  await _testConnectivity();
-  await _testShows();
+  setUp(() async {
+    _server = new MockWebServer();
+    await _server.start();
+    await _setServer(ServerType.MOCK);
+  });
 
-  test('Test - get Episodes', () {});
+  tearDown(() {
+    _server.shutdown();
+  });
 
-  test('Test - get Profiles', () {});
-
-  test('Test - get Health', () {});
-
-  test('Test - ', () {});
-}
-
-_testConnectivity() async {
   test("Test - Can't connect to the server", () async {
     await _setServer(ServerType.NON_EXISTING);
     expect(Client.getInstance().getStatus(),
@@ -38,7 +34,6 @@ _testConnectivity() async {
   });
 
   test("Test - Invalid API", () async {
-    await _setServer(ServerType.MOCK);
     _server.enqueue(httpCode: 401);
     expect(Client.getInstance().getStatus(),
         throwsA(new isInstanceOf<InvalidApiKeyException>()));
@@ -57,9 +52,7 @@ _testConnectivity() async {
     expect(request.uri.path, "/api/system/status");
     expect(request.method, "GET");
   });
-}
 
-_testShows() async {
   test('Test - get Shows', () async {
     _server.enqueue(body: _readFile("responses/get_shows.json"));
     List<Show> shows = await Client.getInstance().getShows();
@@ -69,6 +62,14 @@ _testShows() async {
     expect(request.uri.path, "/api/series");
     expect(request.method, "GET");
   });
+
+  test('Test - get Episodes', () {});
+
+  test('Test - get Profiles', () {});
+
+  test('Test - get Health', () {});
+
+  test('Test - ', () {});
 }
 
 _setServer(ServerType type) async {
@@ -84,8 +85,8 @@ _setServer(ServerType type) async {
     case ServerType.MOCK:
       server = new Server()
         ..https = false
-        ..hostname = "localhost"
-        ..port = 8081
+        ..hostname = _server.host
+        ..port = _server.port
         ..apiKey = "mockedApiKey";
       break;
   }
