@@ -1,0 +1,7 @@
+[
+  {
+    "type": "warning",
+    "message": "Indexers unavailable due to failures: 6box, NZBCat",
+    "wikiUrl": "https://github.com/Sonarr/Sonarr/wiki/Health-checks#indexers-are-unavailable-due-to-failures"
+  }
+]

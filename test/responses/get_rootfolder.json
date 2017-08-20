@@ -1,0 +1,29 @@
+[
+  {
+    "path": "/media/USBHDD1/Shows/",
+    "freeSpace": 301998153728,
+    "unmappedFolders": [
+      {
+        "name": "House",
+        "path": "/media/USBHDD1/Shows/House"
+      },
+      {
+        "name": "I See Your Voice",
+        "path": "/media/USBHDD1/Shows/I See Your Voice"
+      },
+      {
+        "name": "Infinite Challenge",
+        "path": "/media/USBHDD1/Shows/Infinite Challenge"
+      },
+      {
+        "name": "Running Man",
+        "path": "/media/USBHDD1/Shows/Running Man"
+      },
+      {
+        "name": "The Office (US)",
+        "path": "/media/USBHDD1/Shows/The Office (US)"
+      }
+    ],
+    "id": 1
+  }
+]

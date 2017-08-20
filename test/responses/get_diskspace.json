@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/",
+    "label": "/dev/mmcblk0p2",
+    "freeSpace": 17066475520,
+    "totalSpace": 30350643200
+  },
+  {
+    "path": "/boot",
+    "label": "/dev/mmcblk0p1",
+    "freeSpace": 40116224,
+    "totalSpace": 62857216
+  },
+  {
+    "path": "/media/USBHDD1",
+    "label": "UUID=c137fb3d-dc88-4482-9156-9fc6c017b029",
+    "freeSpace": 301998153728,
+    "totalSpace": 1968875380736
+  }
+]

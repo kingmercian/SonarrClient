@@ -1,0 +1,179 @@
+{
+  "title": "Adventure Time",
+  "alternateTitles": [
+    {
+      "title": "Adventure Time With Finn and Jake",
+      "seasonNumber": -1
+    }
+  ],
+  "sortTitle": "adventure time",
+  "seasonCount": 9,
+  "totalEpisodeCount": 278,
+  "episodeCount": 2,
+  "episodeFileCount": 2,
+  "sizeOnDisk": 1040888893,
+  "status": "continuing",
+  "overview": "Adventure Time follows two best friends: Finn (a 12-year old boy) and Jake (a wise 28-year-old dog with magical powers), and the surreal adventures undertaken by the duo as they traverse the mystical Land of Ooo. A world built for adventure, Ooo is filled to the brim with various landscapes for the two buddies to explore and bizarre characters to assist.",
+  "previousAiring": "2010-04-05T23:56:00Z",
+  "network": "Cartoon Network",
+  "airTime": "19:45",
+  "images": [
+    {
+      "coverType": "fanart",
+      "url": "/MediaCover/134/fanart.jpg?lastWrite=636384055810000000"
+    },
+    {
+      "coverType": "banner",
+      "url": "/MediaCover/134/banner.jpg?lastWrite=636384055840000000"
+    },
+    {
+      "coverType": "poster",
+      "url": "/MediaCover/134/poster.jpg?lastWrite=636384055840000000"
+    }
+  ],
+  "seasons": [
+    {
+      "seasonNumber": 0,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 12,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 1,
+      "monitored": false,
+      "statistics": {
+        "previousAiring": "2010-04-05T23:56:00Z",
+        "episodeFileCount": 2,
+        "episodeCount": 2,
+        "totalEpisodeCount": 26,
+        "sizeOnDisk": 1040888893,
+        "percentOfEpisodes": 100.0
+      }
+    },
+    {
+      "seasonNumber": 2,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 26,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 3,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 26,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 4,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 26,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 5,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 52,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 6,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 43,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 7,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 39,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 8,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 14,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    },
+    {
+      "seasonNumber": 9,
+      "monitored": false,
+      "statistics": {
+        "episodeFileCount": 0,
+        "episodeCount": 0,
+        "totalEpisodeCount": 14,
+        "sizeOnDisk": 0,
+        "percentOfEpisodes": 0.0
+      }
+    }
+  ],
+  "year": 2010,
+  "path": "/media/USBHDD1/Shows/Adventure Time",
+  "profileId": 1,
+  "seasonFolder": true,
+  "monitored": true,
+  "useSceneNumbering": false,
+  "runtime": 11,
+  "tvdbId": 152831,
+  "tvRageId": 23369,
+  "tvMazeId": 290,
+  "firstAired": "2010-04-05T07:00:00Z",
+  "lastInfoSync": "2017-08-20T16:03:06.305296Z",
+  "seriesType": "standard",
+  "cleanTitle": "adventuretime",
+  "imdbId": "tt1305826",
+  "titleSlug": "adventure-time",
+  "certification": "TV-PG",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Children",
+    "Comedy",
+    "Family"
+  ],
+  "tags": [],
+  "added": "2017-08-15T14:52:57.876503Z",
+  "ratings": {
+    "votes": 129,
+    "value": 9.6
+  },
+  "qualityProfileId": 1,
+  "id": 134
+}
