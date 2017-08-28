@@ -135,6 +135,13 @@ class Client {
     await _executeCommand(JSON.encode(bodyMap));
   }
 
+  Future updateSonarr() async {
+    Map<String, dynamic> bodyMap = new Map();
+    bodyMap["name"] = "ApplicationUpdate";
+
+    await _executeCommand(JSON.encode(bodyMap));
+  }
+
   Future<List<Release>> episodeSearch(int episodeId) async {
     return await _sonarr.get(
         "release?episodeId=$episodeId&sort_by=releaseWeight&order=asc",
@@ -209,6 +216,10 @@ class Client {
     return await _sonarr.get("health", parseHealthMessages);
   }
 
+  Future<List<SonarrRelease>> getReleases() async {
+    return await _sonarr.get("update", parseSonarrReleases);
+  }
+
   Future<List<Rename>> previewRename(int showId, {int seasonNumber}) async {
     String path = "rename?seriesId=$showId";
 
@@ -276,7 +287,7 @@ class Client {
   // Internal
 
   Future _executeCommand(String body) async {
-    return await _sonarr.post("/command", body);
+    return await _sonarr.post("command", body);
   }
 }
 
