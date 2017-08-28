@@ -192,6 +192,15 @@ class Rename {
   String newPath;
 }
 
+class SonarrRelease {
+  String version;
+  DateTime releaseDate;
+  bool installed;
+  bool installable;
+  List<String> features = new List<String>();
+  List<String> fixes = new List<String>();
+}
+
 class EventType {
   static final values = <EventType>[
     GRABBED,
