@@ -4,6 +4,7 @@ import '../../network/network.dart';
 import '../../model/model.dart';
 import '../../utils/utils.dart';
 import '../route/add_server.dart';
+import '../route/update_sonarr.dart';
 
 class SubmarineDrawer extends StatefulWidget {
   @override
@@ -21,6 +22,13 @@ class _SubmarineDrawerState extends State<SubmarineDrawer> {
         context,
         new MaterialPageRoute<AddServer>(
             builder: (BuildContext context) => new AddServer()));
+  }
+
+  _goToUpdate() {
+    Navigator.push(
+        context,
+        new MaterialPageRoute<UpdateSonarr>(
+            builder: (BuildContext context) => new UpdateSonarr()));
   }
 
   @override
@@ -75,6 +83,13 @@ class _SubmarineDrawerState extends State<SubmarineDrawer> {
       onTap: () => _goToSettings(),
     );
 
+
+    ListTile updateSonarr = new ListTile(
+      leading: const Icon(Icons.update),
+      title: const Text('Update Sonarr'),
+      onTap: () => _goToUpdate(),
+    );
+
     if (_isLoading)
       return new ListView(
         children: <Widget>[
@@ -121,6 +136,7 @@ class _SubmarineDrawerState extends State<SubmarineDrawer> {
 
     content.add(new Divider());
     content.add(editConnection);
+    content.add(updateSonarr);
 
     return new RefreshIndicator(
         onRefresh: _loadInfo,

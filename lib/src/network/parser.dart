@@ -337,3 +337,20 @@ Rename parseRenamingPreview(Map map) {
     ..currentPath = map["existingPath"]
     ..newPath = map["newPath"];
 }
+
+List<SonarrRelease> parseSonarrReleases(String json) {
+  List<SonarrRelease> result = [];
+  JSON.decode(json).forEach((it) => result.add(parseSonarrRelease(it)));
+
+  return result;
+}
+
+SonarrRelease parseSonarrRelease(Map map) {
+  return new SonarrRelease()
+    ..version = map["version"]
+    ..releaseDate = DateTime.parse(map["releaseDate"])
+    ..installed = map["installed"]
+    ..installable = map["installable"]
+    ..features = map["changes"]["new"]
+    ..fixes = map["changes"]["fixed"];
+}
